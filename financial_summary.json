@@ -1,0 +1,183 @@
+{
+  "generated_at": "2026-04-26T02:34:55.041018",
+  "total_receipts_processed": 50,
+  "successful_extractions": 50,
+  "failed_extractions": 0,
+  "total_spend": 4037.52,
+  "number_of_transactions": 50,
+  "average_spend_per_receipt": 80.75,
+  "spend_per_store": {
+    "Level 4,": {
+      "transactions": 1,
+      "total_spend": 840.0
+    },
+    "Carry Sdn, Bhd/317041-W": {
+      "transactions": 1,
+      "total_spend": 673.99
+    },
+    "GREATZONE HOUSEHOLD CENTRE SDN BHD": {
+      "transactions": 1,
+      "total_spend": 367.3
+    },
+    "129, JALAN TUNH.SLEE,": {
+      "transactions": 1,
+      "total_spend": 353.0
+    },
+    "BENEED (SP) SDN_ BHD.": {
+      "transactions": 1,
+      "total_spend": 308.7
+    },
+    "(590150-4)": {
+      "transactions": 1,
+      "total_spend": 209.53
+    },
+    "001951645696": {
+      "transactions": 1,
+      "total_spend": 145.09
+    },
+    "PANA": {
+      "transactions": 2,
+      "total_spend": 134.06
+    },
+    "YONG CEN ENTERPRISE": {
+      "transactions": 2,
+      "total_spend": 121.98
+    },
+    "NO.17, 18 & 41, JALAN BESAR,": {
+      "transactions": 1,
+      "total_spend": 109.7
+    },
+    "TAmAN BEPKELEY": {
+      "transactions": 1,
+      "total_spend": 93.28
+    },
+    "31803003": {
+      "transactions": 1,
+      "total_spend": 88.97
+    },
+    "Mi, ),.'": {
+      "transactions": 1,
+      "total_spend": 71.9
+    },
+    "SUPER   SEVEN C4SH & CARRY SDN BHD": {
+      "transactions": 1,
+      "total_spend": 55.66
+    },
+    "MR .": {
+      "transactions": 1,
+      "total_spend": 45.0
+    },
+    "CHERAS , 55100 KUALA   Lumpur": {
+      "transactions": 1,
+      "total_spend": 42.48
+    },
+    "HUGO TRADING SDN BHD": {
+      "transactions": 1,
+      "total_spend": 40.8
+    },
+    "ADVANCO COMPANY": {
+      "transactions": 2,
+      "total_spend": 36.0
+    },
+    "NO _": {
+      "transactions": 1,
+      "total_spend": 35.5
+    },
+    "001389649920": {
+      "transactions": 1,
+      "total_spend": 35.4
+    },
+    "Co. Reg: No:: 795225-A": {
+      "transactions": 1,
+      "total_spend": 34.0
+    },
+    "AEON CO, (M) BHD (126928-H)": {
+      "transactions": 1,
+      "total_spend": 31.0
+    },
+    "MR _": {
+      "transactions": 4,
+      "total_spend": 21.12
+    },
+    "GOLDEN KEY MAKER": {
+      "transactions": 1,
+      "total_spend": 21.0
+    },
+    "CARRY SDN 'BHD": {
+      "transactions": 1,
+      "total_spend": 18.3
+    },
+    "HR _": {
+      "transactions": 1,
+      "total_spend": 14.9
+    },
+    "SINNATHAMBY HOLDINGS": {
+      "transactions": 1,
+      "total_spend": 13.5
+    },
+    "2180300": {
+      "transactions": 1,
+      "total_spend": 12.0
+    },
+    "21803016": {
+      "transactions": 1,
+      "total_spend": 9.95
+    },
+    "(CO.REG": {
+      "transactions": 1,
+      "total_spend": 9.4
+    },
+    "TRADING": {
+      "transactions": 1,
+      "total_spend": 8.0
+    },
+    "31803040": {
+      "transactions": 1,
+      "total_spend": 7.1
+    },
+    "Harvey Norman M'sia Paradigm Mal]": {
+      "transactions": 1,
+      "total_spend": 6.0
+    },
+    "POPULAR": {
+      "transactions": 2,
+      "total_spend": 5.98
+    },
+    "JUWITA WEDDINGS (366310-U)": {
+      "transactions": 1,
+      "total_spend": 4.1
+    },
+    "SATU KAMPUNG ENTERPRISE SDN BHD": {
+      "transactions": 1,
+      "total_spend": 3.67
+    },
+    "2180207": {
+      "transactions": 1,
+      "total_spend": 2.86
+    },
+    "('125830-V)": {
+      "transactions": 1,
+      "total_spend": 2.0
+    },
+    "Company Reg; No.": {
+      "transactions": 1,
+      "total_spend": 1.6
+    },
+    "3180205": {
+      "transactions": 1,
+      "total_spend": 1.48
+    },
+    "0,I.Y.": {
+      "transactions": 1,
+      "total_spend": 0.7
+    },
+    "TSH ROWER HARDWARE": {
+      "transactions": 1,
+      "total_spend": 0.5
+    },
+    "IMAGE PRINTEC (M) SDN BHD": {
+      "transactions": 1,
+      "total_spend": 0.02
+    }
+  }
+}

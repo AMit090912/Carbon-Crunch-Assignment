@@ -1,0 +1,38 @@
+{
+  "filename": "X51005806718.jpg",
+  "processed_at": "2026-04-26T02:34:38.337460",
+  "ocr_engine": "easyocr",
+  "raw_text": "HUGO TRADING SDN BHD Tota BR No 1160956-H D ARE LOT 889, KOMFLEKS PASAR BORONG SELANGOR; 43300 SERI KEMBANGAN, SEL 03-89442249, GST No. 001552822272 TAX INVOICE 13/01/2018 11.44.30PM TRN: C2050063 Counter 2 CASHIER 2 QTY UOM UNIT Amt Exc: Amt Inc GSTC Price Tax Taxode HD 32 X40 1kg 2 PKT 10.38 20.75 22.00 SR @6% + 1,25 GB3648-GARBAGE BAG 36x48 1X15 PKT 8 87 17.74 18.80 SR @6% 1.08 4 00 40.80 GST 69 40.80 Pavment S1,00 10.20 Amount (RM) Tax (RM) 38.49 231 sold are not returnable YOU for shopping at HUi SDN BHD GST GST\" 'Tolal Qty: Total Includes Customers _ Cash Change GST Summary SR = 6 % \"Goods Thank TRADING",
+  "store_name": {
+    "value": "HUGO TRADING SDN BHD",
+    "confidence": 0.774
+  },
+  "date": {
+    "value": "13/01/2018",
+    "confidence": 0.86
+  },
+  "items": [
+    {
+      "name": "SR 2 PKT 22.00 20.75",
+      "price": "10.38",
+      "confidence": 0.77
+    },
+    {
+      "name": "PKT SR 18.80 8 87",
+      "price": "17.74",
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": "40.80",
+    "confidence": 0.45
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.757
+}

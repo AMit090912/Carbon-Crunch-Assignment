@@ -1,0 +1,34 @@
+{
+  "filename": "X51005757235.jpg",
+  "processed_at": "2026-04-26T02:29:40.036701",
+  "ocr_engine": "easyocr",
+  "raw_text": "siUg0it AEON CO, (M) BHD (126928-H) 3RD FLR, AEON TAMAN MALURI SC JLN JEJAka , TAMAN MALuri CHERAS , 55100 KUAL.A  LUHFUR GST [D 002017394688 SHOPPING  HOURS SuUN-THU: TOoo  HRS 2200  HIRS FRI-SAT : 10o0 HRS 2300 HRS VAL UED CUSTOMER:  7370001392 Ix 6u0C02781709 15.S03R BIO zIp POWDr Ix 600002781709 15. 5OSR BiO ZiP POHDER Sul: total 31 . (0 Tota/ Sales Inc]  GST 31 .(0 Tolal After Adj  Irc, 7 GST 31.00 CASH 50.00 Item Count 2 Amt 19.00 Invoice Ho: 20180309 10080010555 GST  Sumary Anount Tax SR & 6x 23.24 1.76 Tota] 291,24 1.76 09/03/2018 18:54 1008 001 0010555 0305101  HAL INA AEON BAHOAR  PUCHONG TEL |-3ou-80-AEOn (2366) THANK  Yuu FOR  YOUR  PATRONAGE PLEASE COHE  AGAIN Changje",
+  "store_name": {
+    "value": "AEON CO, (M) BHD (126928-H)",
+    "confidence": 0.51
+  },
+  "date": {
+    "value": "09/03/2018",
+    "confidence": 0.855
+  },
+  "items": [
+    {
+      "name": "SR & 6x 23.24",
+      "price": "1.76",
+      "confidence": 0.823
+    }
+  ],
+  "total_amount": {
+    "value": "31.00",
+    "confidence": 0.824
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.662
+}

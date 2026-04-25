@@ -1,0 +1,25 @@
+{
+  "filename": "X51005746207.jpg",
+  "processed_at": "2026-04-26T02:26:40.185382",
+  "ocr_engine": "easyocr",
+  "raw_text": "SUPER SEVEN CASH & CARRY SDN 'BHD (590 150-A) PASARAYA BORONG  SUPER SEVEN NO _ Ja lan Euro Off Jalan Batu Tiga Sungai Buloh Seksyen U3 Shah Alam,40150 http: / /ll. super7 .COM .my TEL 03- 78590861 FAX 03-78590864 GST ID 000639090688 tAX INVOICE Customer [77853745] Krs _ ONG  GUAT CHYE TaX INVOICE NO 203225 COUNTER :002 OPERATOR [SYED  AHMAD FALLAH 8I-CUSTOMER SERVICE CLERK] 21-03-2018 11;25;07 AM (RM) === FRUIT  (FP) @2.99 41595 #1 2.99 ZR NANGKA PINGGAN @2.00 FM415000303 #1 2.00 ZR KIMBALL TOMATo PUREE  430G @3. 80 9556191030230 #1 3.80 SR KIMBALL TOMATO purEe 4306 @3.80 9556191030230 #1 3.80 SR URO  MUSHROOH 425G @2 . 80 9555227500563 #1 2.80 SR YOunG  CORN  425G  (MS) @2. 90 9555654400313 #1 2.90 SR Quantity 6 Units Total Sales (Inc] , GST C68) RM18.29 Rounding Adjustment RMO ., 01 Net Total Is Iro RM18,30 Payment Method MASTER CARD GST   Slmnmary Sales Amt Tax Amt (RM) (RM) ZR (O% 4.99 4Q0 SR (\u20ac :) 12.54 0,76^ PLEASE VERIFY YOUR RECEIPT BEFORE LEAVING THE COUNTER , GOODS   SOLD ARE   NOT  RETURNABLE . THANK YOU",
+  "store_name": {
+    "value": "CARRY SDN 'BHD",
+    "confidence": 0.705
+  },
+  "date": {
+    "value": "21-03-2018",
+    "confidence": 0.959
+  },
+  "items": [],
+  "total_amount": {
+    "value": "18.30",
+    "confidence": 0.798
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.845
+}

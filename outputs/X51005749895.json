@@ -1,0 +1,28 @@
+{
+  "filename": "X51005749895.jpg",
+  "processed_at": "2026-04-26T02:27:23.567958",
+  "ocr_engine": "easyocr",
+  "raw_text": "\" ,01 4 Mi, ),.' (M) SDN BHD Co-RE ;:36067 1-D Lot 1851-A 4 1 351-B JALAN KPB 6 , KAHASAn PER [N )USTRIAN BALAKONG 43 300   SER [ K :MBANGAN SELANGOR (GST Id No :000306020352 ) (TESCO E(TR ARA DAMANSARA TAX INVOICE - PILLAR SINK TAP #S FZu2 6/54 9072351 2 X 23, 90 47 ,80 SHIFI DToX FIk 600 IL MP #S WAO 1 24 9556 |11988559 1 X 8 , 90 8 . 90 SPONGE KOREA-2S #S ARG2 12/312 9064017 4 X 3 ,00 12 ,00 PLASTIC BAGS #S 99q99 1 X 0 .20 0,20 VAnCE LIGHTER -Is VT02 #S WB22 50/10Q 9555258606 166, 5 X 0.60 3,0g Item(s) 5 Qty(s) : 13 TOTAL INcL. GSf@6 ; RM 71.90 CASH RH 72.00 CHA NGE RH 0 ,10 GS (   Summary Ant (RM ) Tax(RM) GST S@6x 67 . 83 4.07 bu kak * 02 -03-18 23 SH )1 2J42 T1 RO00227410 OPERATOR ' TADC A.IM ABDUL EXCHANGE HR 4LLOWED Withih DA ( # Th RECEIPT STRICT-Y 40 CASH REFUND _ ~bp",
+  "store_name": {
+    "value": "Mi, ),.'",
+    "confidence": 0.447
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [],
+  "total_amount": {
+    "value": "71.90",
+    "confidence": 0.985
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.613
+}

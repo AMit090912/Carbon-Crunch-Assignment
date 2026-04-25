@@ -1,0 +1,31 @@
+{
+  "filename": "X51005806692.jpg",
+  "processed_at": "2026-04-26T02:33:35.983704",
+  "ocr_engine": "easyocr",
+  "raw_text": "Tax Invoice GREATZONE HOUSEHOLD CENTRE SDN BHD (801049-U) 60 & 62. Jalan 86000,KLUANG GST 001833082880 Document No. KLGO201130227 Date 18/02/2018 06.08;59 PM Debtor Member Terminal KLGO2O1 Cashier KLG2 DESC U; PRICE Disc AMOUNT TAX QTY RM RM CODE ZOOSHEET COMPACT SERVIETTES (NTE) 1 PC 3,30 O.00 3.30 SR 1.5\" RUBBER BAND 1 ZO0G 3.60 0.00 3.60 SR PP 3X5 04 1 Z00G 2.50 0.00 2.50 SR 18MMXIOY OPP TAPE 1 PC 1.60 0.00 1.60 SR 911 TAPE DISPENSER 1 PC 8.60 0.00 8.60 SR PSI-890 PENSONIC DRY IRON WITH SPRAY 1 PC 49.90 O.00 49.90 SR AP-17 APRON PLAIN CLOTH 20 PC 10.90 0.00 218.00 SR TALI UKURAN 1 PC 1,00 0,00 1,00 SR CC-1OO 1OOPC CITE CANDLE 1 PC 22.90 0.00 22.90 SR F15o2 SCISSOR O8C (CH) (TLC) 6 PC 6.00 0.00 36,00 SR 2KG HC KITCHEN SCALE 1 PC 19.90 0.00 19.90 SR Sub Total (Exclusive 346 51 GST 6% Z0_ Service O.00 Rounding Adjustment 0.Q0 Rounded Total (RM): 367,30. Credlt Card 367.30 GST Summary Amount(RM) Tax(RM) SR 6% 346.51 20.79 Ciku, Reg:: GST) Charge",
+  "store_name": {
+    "value": "GREATZONE HOUSEHOLD CENTRE SDN BHD",
+    "confidence": 0.784
+  },
+  "date": {
+    "value": "18/02/2018",
+    "confidence": 0.746
+  },
+  "items": [
+    {
+      "name": "SR 6% 346.51",
+      "price": "20.79",
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": "367.30",
+    "confidence": 0.822
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.808
+}

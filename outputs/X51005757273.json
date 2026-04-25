@@ -1,0 +1,28 @@
+{
+  "filename": "X51005757273.jpg",
+  "processed_at": "2026-04-26T02:30:04.573597",
+  "ocr_engine": "easyocr",
+  "raw_text": "3/803033 MR . 0.I.Y, (KuCHAi) SN BHD (CO :750441-H) LoT 1851-4 & 1851-B JaLAN KPB 6 , Kahasan PERINDUSTRIAN BALAKONG 43300   SERI KEHBANGAN _ SELANGOR (GST Id No :000473792512) (STRAND MALL KOTA DAMANSARA ) TAX InVOICE PYEORAIN CLOG FREE CLDRO?2 1OOOML #S NAO5 12 95562680002 10 3 X 15,00 45 , 00 Item(s) 1 dtyls) 3 TOTAL InCL _ GST@6% RM 45.00 CARD RM 45 , 00 GST  Summary Amt (RM) Tax( RH ) GST S@8X 42 . 45 2 ,55 +- 12-03- 18 14:37 SHO2 BO 1 1 T1 ROOO 183898 OPERATOR STMT AZMIZAN EXCHANGE ARE ALLOHED WITHIN ( DAYS HITH RECEIPT _ STRICTLY nO CASH REFUND_ Reg",
+  "store_name": {
+    "value": "MR .",
+    "confidence": 0.67
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [],
+  "total_amount": {
+    "value": "45.00",
+    "confidence": 0.985
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.669
+}

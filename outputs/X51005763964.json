@@ -1,0 +1,38 @@
+{
+  "filename": "X51005763964.jpg",
+  "processed_at": "2026-04-26T02:32:06.003786",
+  "ocr_engine": "easyocr",
+  "raw_text": "chh YONG CEN ENTERPRISE hrlr1 9 JALAN SUBANG JASA 3, 40150 SHAH ALAM; TEL: 012-9719498 #ELANGQMShrvo GST NO: 001147981824 CASH RECEIPT #: CS00668594 DATE: 08/01/2018 SALESPERSON TIME: 10.47:00 COUNTER ITEM QTY UIP AMOUNT 9555223500000 24 2.58 61.99 SR:CHAMPIGNONS MUSHROOMS 425G(2 5833X TOTAL QUANTITY 24 SUB-TOTAL 61,99 DISC 0.00 GST 3.72 TAX 0.00 ROUNDING -0.01 bF2 TOTAL 65.70 CASH 65,70 CHANGE 0.00 GOODS SQLD ARE NOT RETURNABLE, THANK YOU.",
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.731
+  },
+  "date": {
+    "value": "08/01/2018",
+    "confidence": 0.744
+  },
+  "items": [
+    {
+      "name": "24 2.58",
+      "price": "61.99",
+      "confidence": 0.77
+    },
+    {
+      "name": "DISC",
+      "price": "0.00",
+      "confidence": 0.942
+    }
+  ],
+  "total_amount": {
+    "value": "61.99",
+    "confidence": 0.987
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.746
+}

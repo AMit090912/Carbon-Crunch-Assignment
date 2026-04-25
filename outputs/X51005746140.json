@@ -1,0 +1,34 @@
+{
+  "filename": "X51005746140.jpg",
+  "processed_at": "2026-04-26T02:25:21.092263",
+  "ocr_engine": "easyocr",
+  "raw_text": "cP1 YONG CEN ENTERPRISE 9 JALAN SUBANG JASA 3, 40150 SHAH ALAM; SELANGOR; TEL: 012.9719498 GST NO: 001147981824 Lane CASH RECEIPT # CSO0677115 DATE: 02/03/2018 SALESPERSON TIME: 09.43.00 COUNTER A ITEM QTY UIP AMOUNT 9555223500307 24 2.33 55.99 SR:FEI YAN BRAND YOUNG CORN 425G (2.333X 9557166110018 2 2.00 4,00 ZRL:ASAM BOI 656 LezAa TOTAL QUANTITY 26 SUB-TOTAL 59,99 DISC 0.00 GST 3.36 TAX 0.00 62 HX ROUNDING 0 TOTAL 63.35 CASH 63.35 CHANGE 0,00 GOODS SOLD ARE NOT RETURNABLE, THANK: YOU. CCt",
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.661
+  },
+  "date": {
+    "value": "02/03/2018",
+    "confidence": 0.742
+  },
+  "items": [
+    {
+      "name": "DISC",
+      "price": "0.00",
+      "confidence": 0.949
+    }
+  ],
+  "total_amount": {
+    "value": "59.99",
+    "confidence": 0.838
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.698
+}

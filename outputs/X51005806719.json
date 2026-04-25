@@ -1,0 +1,28 @@
+{
+  "filename": "X51005806719.jpg",
+  "processed_at": "2026-04-26T02:34:46.543258",
+  "ocr_engine": "easyocr",
+  "raw_text": "XOSTED) SATU KAMPUNG ENTERPRISE SDN BHD 1127686-K) NO.42, PASAR BORONG SELANGOR' JALAN PUTRA PERMAI, 43300 SERI KEMBANGAN, SELANGOR TEL 03-8938 2188 SATUKAMPUNGESB@GMAIL COM GST ID 000816205824 TAX IVQICE Doc No CS00039037 Dale: 13101/201 Cashier USER Tinie' 23 37.00 Salesperson Ref _ (GST) (GST) Item S/Price Siprice Amount I KITO1 19.81 21.00 63,0U Sk KITCHENWARE Taial 63 00) Tolal Sales (Exciuding GST) 59.43 Discount 0 \u20acQ) Total GST 3.67 Rounding Q.00 Total Salos (Inclusive of GST) 63.00 CASH Change 7.00 POSTED IARY % AvplLW Tax (FWW) 6 59.43 3.57 SDN BHD Total 59.43 3.37 7956-H ASAR BORONG ARE NOT RETURNABLE, THIANK YCU, Qly:",
+  "store_name": {
+    "value": "SATU KAMPUNG ENTERPRISE SDN BHD",
+    "confidence": 0.684
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3.67",
+    "confidence": 0.766
+  },
+  "currency": {
+    "value": "EUR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.618
+}

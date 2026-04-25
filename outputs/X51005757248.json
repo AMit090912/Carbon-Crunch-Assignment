@@ -1,0 +1,47 @@
+{
+  "filename": "X51005757248.jpg",
+  "processed_at": "2026-04-26T02:29:56.447064",
+  "ocr_engine": "easyocr",
+  "raw_text": "Sik0zull AEON co . (N) Bho' ( 128926-H) ZRD FLR, AFQw TAMAN M4LURI SC Jla JEWAKA , TAHAN HALURT CHERAS , 55100 KUALA   Lumpur GST   ID 0920 173941688 SHOPPING;  HHOLRS SN- THU; 1OQO HIRS 2200 HIRS FRi-S4T : 1OQO HRS 2300 HRS Ix U1gQ01288854 0 ,22uSR FLAST [CS BAG Ix Q0on 76 16775 13,946 #S HjO) HaF Ix C700qo616775 14,817R WC Hjd H&F I^ 090o0 2616775 13.532R HC W/O) HeF Sub-total 42.48 iatal Sales   inc| GST 42.48 Rritnidirg id) 0.02 Iotal After Adj Inc| GST 42.50 CASH 50,0Q Itam Cjurit 4 Charge Amt 7,56 Invoice Io: 2013031210050210139 GST  Stmaary 4m2urt Tax S @ 67 0.19 (.8i ZR @ Ox 42..28 0.00 Tota] 42.47 0.01 12/03/2ile  13:07 1008 (01 Q010133 0304662  HEHADAS A/L 84LOO AEOM BANDAR  FUcIGNG Ftl 1-00-80-AEOK (2386) THAMK   YOU FIX  YOUR  PA FRUNAGe PL FAS   COHE   AGAIN WHHHHA",
+  "store_name": {
+    "value": "CHERAS , 55100 KUALA   Lumpur",
+    "confidence": 0.576
+  },
+  "date": {
+    "value": "1-00-80",
+    "confidence": 0.563
+  },
+  "items": [
+    {
+      "name": "Rritnidirg id)",
+      "price": "0.02",
+      "confidence": 0.552
+    },
+    {
+      "name": "ZR @ Ox 42..28",
+      "price": "0.00",
+      "confidence": 0.675
+    },
+    {
+      "name": "Tota] 42.47",
+      "price": "0.01",
+      "confidence": 0.91
+    }
+  ],
+  "total_amount": {
+    "value": "42.48",
+    "confidence": 0.947
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date",
+    "low_confidence_currency",
+    "low_confidence_item_0",
+    "low_confidence_item_1"
+  ],
+  "overall_confidence": 0.646
+}

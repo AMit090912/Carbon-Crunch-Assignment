@@ -1,0 +1,35 @@
+{
+  "filename": "X51005757282.jpg",
+  "processed_at": "2026-04-26T02:30:11.910863",
+  "ocr_engine": "easyocr",
+  "raw_text": "3i803037 2E22k TSH ROWER HARDWARE TRADING 002458685-T 13-1, Jalan PJU 5/10, Dataran Sunway; Kota Damansara, 47810,Petallng Jaya, Selangor Tel;012-373 2096 TAX INVOICE GST No: 000460664832 Olce No 01-144366 Je 12/09/2017 4.42:33 PM Description Oty_ Price Amount 308# DRAWER 6,00 6.00 SRF JOCK C 2 HLsoO / 1L502 #AXON GARDEN 18.00 18.00 SR* TAP 1p2X3/4 FX- '1O5B JOCAL SEAL WHITE 0.50 0.50 SR+ TAPE Sub Total: 0.50 Rynd Ant: 0QQ NET TOTAL : 24.50 Cash Received 50.00 Change 25.50 SST Summan__Amo4ntRM) _ TaxRM SR-6.00% 23.11 1.39 ####Thank You.*#tt Please Come Again; Puelrozk Reg",
+  "store_name": {
+    "value": "TSH ROWER HARDWARE",
+    "confidence": 0.584
+  },
+  "date": {
+    "value": "12/09/2017",
+    "confidence": 0.693
+  },
+  "items": [
+    {
+      "name": "23.11 SR-6.00%",
+      "price": "1.39",
+      "confidence": 0.839
+    }
+  ],
+  "total_amount": {
+    "value": "0.50",
+    "confidence": 0.987
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.681
+}

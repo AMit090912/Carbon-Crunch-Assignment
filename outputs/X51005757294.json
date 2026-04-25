@@ -1,0 +1,28 @@
+{
+  "filename": "X51005757294.jpg",
+  "processed_at": "2026-04-26T02:30:41.333890",
+  "ocr_engine": "easyocr",
+  "raw_text": "3/18030c2 HR . D.1,Y. (M) SDM BHD (CO.REG 86067 1 -D ) LOt 185 1-A & 1851-8 , JaLAN KPB 6 Kahasan PERINOUSTRIAN BALAKONG , 43300 SERI KEMBANGAH , SELANGOR (GST ID No :000306020352 ) (IOI PUCHONG) -TaX INVOICE CARBON FIBER CARTRIDGE C1O-981 10' #% cC22-52-62 25 9063785 2 X 5 . 30 10,e0 Item(s) Qty(s) 2 Tota] Inc] _ GST@6X RM 1C.[t CASH RH 26, \u20acu CHANGE RM 9.40 GST @6%  included in tota) RH 0.66 +- 18-03-18 15;12 SHO 1 2J86 T3 R00006o727 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED within ( DAY hITH RECEIPT _ STRICTLY NQ CasH REFUND ,",
+  "store_name": {
+    "value": "(CO.REG",
+    "confidence": 0.634
+  },
+  "date": {
+    "value": "18-03-18",
+    "confidence": 0.975
+  },
+  "items": [],
+  "total_amount": {
+    "value": "9.40",
+    "confidence": 0.45
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.745
+}

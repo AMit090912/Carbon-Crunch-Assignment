@@ -1,0 +1,44 @@
+{
+  "filename": "X51005806703.jpg",
+  "processed_at": "2026-04-26T02:34:22.614897",
+  "ocr_engine": "easyocr",
+  "raw_text": "Cash Sale SINNATHAMGY HOLDINGS SDN. #HD. (219336-T) NO.17, 18 & 41, JALAN BESAR, 39100 BRINCHANG,_ CAMERON HIGHLANDS, PAHANG GST 002120876032 Document No. T04-18/084227 Date 06/02/2018 07*09:16 PM DESC PRICE Disc AMOUNT TAX QTY RM RM IDE POLY CHOPPING BOARD 013 3 UNIT 4,80 @.00 14,40 SR PLASTI  BOWL 2.80 JNIT 2.80 0.00 22.40 SR PLASTIC ( ONTAINER W COVER MS-SQ-1 6 UNIT 1 %i 0.00 9.00 SR BENXON PP HYGIENIC CUP-AC)-700 22 0z-S0PCS 1 UNIT 10.00 O.00 10.00 SR STAEDTLER LUNA COLQUR {i NICIL 11 UNIT 4,90 0.00 53.90 SR Total Qty: 29 Total Inclusive GST &% 109.70 Rounding Adjustment = 0.00 Rounded Total (RM): 109.70 Cash 109.70 GST Summary Amount(RM) Tax(RM) SR @ 6 % 103,49 6.21 NNN Thanks You NIvN Reg_",
+  "store_name": {
+    "value": "NO.17, 18 & 41, JALAN BESAR,",
+    "confidence": 0.65
+  },
+  "date": {
+    "value": "06/02/2018",
+    "confidence": 0.83
+  },
+  "items": [
+    {
+      "name": "3 UNIT 4,80 @.00 SR",
+      "price": "14.40",
+      "confidence": 0.94
+    },
+    {
+      "name": "PLASTI  BOWL",
+      "price": "2.80",
+      "confidence": 0.659
+    },
+    {
+      "name": "SR @ 6 % 103,49",
+      "price": "6.21",
+      "confidence": 0.818
+    }
+  ],
+  "total_amount": {
+    "value": "109.70",
+    "confidence": 0.979
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_item_1"
+  ],
+  "overall_confidence": 0.828
+}

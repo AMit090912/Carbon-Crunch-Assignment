@@ -1,0 +1,25 @@
+{
+  "filename": "X51005757199.jpg",
+  "processed_at": "2026-04-26T02:29:11.200344",
+  "ocr_engine": "easyocr",
+  "raw_text": "2i80300 POPULAR Book Co . (M) SDN BHD (Co. Nc; _ 13825-I' ) (GST\" Reg No. 001492992000) No 8, Ia an 7/081, Desa Tut Ra &k 56000 Kua |a Lupur , Ma luysia IO[ MALL Te | 03-80709 |88 1 8075,7830 01/03/18 12:36 S]ip No. 9070058756 SITI Trans : 21396 Heser ipli0n Anour \u20ac ITENVA. 5*9.5 1.90 T Iu j pes Env 4,SX9. 75 2 . 10 T Total RH [nc. of GST 4. 00 Cash -10. 00 CHANGE 6. 00 Ict Coun( (S?' Summary AmounL (RM) Tax (RM ) T 0 63 3. 77 0.23 Tolal Savings 0_ 00 BE A POPULAR CARD MEMBER AND) ENJOy SPECIaL DISCOUNTS Tlank Y(u. PEEASE: COhi: AGA [N; #ww_ papu ]ar', cOm. my Ch iui:sc books online WwW, popularon] COm. @y Bsuy ine.",
+  "store_name": {
+    "value": "POPULAR",
+    "confidence": 0.768
+  },
+  "date": {
+    "value": "01/03/18",
+    "confidence": 0.943
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0.23",
+    "confidence": 0.95
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.895
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005763958.jpg",
+  "processed_at": "2026-04-26T02:31:56.373549",
+  "ocr_engine": "easyocr",
+  "raw_text": "SUPER   SEVEN C4SH & CARRY SDN BHD (590150-A_ PASARAYA EORONG SUPER SEVEN NO _ Jalan Euro I Off Jalan Bat  Tiga Sunga i Buloh Seksyen U3 Shah Alam,40150 http: / /Www.suzer/,COM , mly TEL 03-78591861 FAX 03-7859J864 GST  ID (100639090688 TaX INVOICE Customer (77853745] Mcs , ONG (HUAT CHYE TaX INVOICE NJ 152164 COUNTER 006 OFERATOR [NURUL  FATEHA 8T  MOHD-ASST   SUPERVISOR] 27-01-2018 04;32:13 PM (RM) =2 KK KACANCCORENG 300G @5. 90 95566240(1140) *10 59.00 SR QUANTItY 10 Units Total Sales (Inc] , GST C6x) RMSg,00 Rounding kdjustment RMO , 00 Net Total RMS9 , 00 Paylient Method VISA CARD GST  Summzry Sales Amt Tax Amt (RM) (RM) SR (68) 55.66 3.34 ZR (O%) 0.00 0,00 PLEASE VEFIFY YOUR RECEIPT 5 BEFORE LEGVIN; THE COUNTER , GCODS  SOL_o  ARE NOT RETURNABLE. THANK   YOU",
+  "store_name": {
+    "value": "SUPER   SEVEN C4SH & CARRY SDN BHD",
+    "confidence": 0.701
+  },
+  "date": {
+    "value": "27-01-2018",
+    "confidence": 0.895
+  },
+  "items": [],
+  "total_amount": {
+    "value": "55.66",
+    "confidence": 0.987
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.876
+}

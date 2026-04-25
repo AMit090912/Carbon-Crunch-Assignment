@@ -1,0 +1,25 @@
+{
+  "filename": "X51005757243.jpg",
+  "processed_at": "2026-04-26T02:29:47.912008",
+  "ocr_engine": "easyocr",
+  "raw_text": "31803080 POPULAR Book Co . (m) SDN BHD (Co. No. 113825-|' ) (GST Ree Na. 00/492992000) Ac 8, Jalan I/1[8B, Desa Tun Razak 5600o Kua |a '!mpur , Wa laysi [0] MALL Te| 03-80709 [88 1 80757830 11/03/18 18:30 Slip No. 9060293576 #an i Trans : 250504 Descripl ion hmoum l [Yc)(UMERt'   ILOI: 44 9[@-Tra Spc [.15 5.7\" Total RM Inc]. of GST 5.75 Cash -50. 00 CHANGE 44.25 [tem Count 5 GST\" Summery Aicourl (RM ) Tax (RM ) T\" @ 6% 5.42 0.33 Total Savings 0_ 00 BE 4 POPULAR CARD HEMBER AND EN JOY SPECIAL DISCOUNTS TILANk Y(u. PLMSE cOF AGAIN; WwW: popij coi. my Buy Chinese books onlinc Www. popularon] ine. cOm. my Iar.",
+  "store_name": {
+    "value": "POPULAR",
+    "confidence": 0.748
+  },
+  "date": {
+    "value": "11/03/18",
+    "confidence": 0.972
+  },
+  "items": [],
+  "total_amount": {
+    "value": "5.75",
+    "confidence": 0.964
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.901
+}

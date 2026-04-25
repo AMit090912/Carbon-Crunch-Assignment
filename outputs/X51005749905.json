@@ -1,0 +1,43 @@
+{
+  "filename": "X51005749905.jpg",
+  "processed_at": "2026-04-26T02:28:27.464614",
+  "ocr_engine": "easyocr",
+  "raw_text": "ENW Hardware Centre (M) Sdn: Bhd: Co. Reg: No:: 795225-A GST Reg: No: 000155453440 No: G3, Blk G,Jln PJU 1A3 , Ara Damansara, 47301 Petaling Jaya, Selangor Darul Ehsan. TEL: 03-7832 6929 012-659 9829 10/03/2018 Tax Invoice No. 'CS00230322 Cash Sale (Ara D'sara) Tel: 03-7832 6929 HIP: 012-659 9829 Item Qty U.Price RM 001533 1.00 19.00 19.00 SR 2kgs. Wood Lacquer Thinner 000920 1.00 10.00 10.00 SR 1.5kg. Ufixx Putty Filler . 006828 2.00 2.50 5.00 SR 100# x 8\" x 45m Sand Paper Roll; Total Amt Incl: GST 6 % 34.00 Rounding Adjusment 0.00 Total Amt Payable 34.00 Total Qty Tender GSL Summary Amount (RM) GSTRM SR = 6 % 32.07 1.93 POINT O.00 \"Goods sold are not returnable Thank you for shopping at ENW Hardware Centre (M) Sdn. Bhd: Qait bX",
+  "store_name": {
+    "value": "Co. Reg: No:: 795225-A",
+    "confidence": 0.657
+  },
+  "date": {
+    "value": "10/03/2018",
+    "confidence": 0.88
+  },
+  "items": [
+    {
+      "name": "001533 19.00 SR 1.00",
+      "price": "19.00",
+      "confidence": 0.95
+    },
+    {
+      "name": "000920 10.00 10.00 SR",
+      "price": "1.00",
+      "confidence": 0.94
+    },
+    {
+      "name": "006828 5.00 SR 2.00",
+      "price": "2.50",
+      "confidence": 0.949
+    }
+  ],
+  "total_amount": {
+    "value": "34.00",
+    "confidence": 0.976
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name"
+  ],
+  "overall_confidence": 0.896
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005757351.jpg",
+  "processed_at": "2026-04-26T02:31:32.116902",
+  "ocr_engine": "easyocr",
+  "raw_text": "31& HR _ D.I.Y. (M) SDN BHD (CO .REG :88067 1-D) LOT 1851-A & 1851-B JaLAN KPB 6 KAHASAN PERINDUSTRIAN BALAKONG 43300  SERI KEHBANGAN _ SELANGOR (GST Id No :000306020352) (IOi PUCHONG) -TaX INVOICE MULTIPURPOSE BROON 737P W/4FT #S WA16 24 9555221300282 2 X 6 , 50 13 , 00 HOSE  PUMP C8835 | # #S KE23-33-53 12/120 9074333 1 X 1.90 1.90 Item(s) 2 Qty(s) 3 Total Inc] _ GST26% RH 14.90 CASH RM 20 ,00 CHANGE RM 5.10 GST @6%   included in total RM 0 .84 24-03-18 18 :02 SHO1 2j86 T1 Rooo112043 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED WITHIN DAY WITH RECEIPT STRICTLY NO Cash REFUND , 0z0s4",
+  "store_name": {
+    "value": "HR _",
+    "confidence": 0.771
+  },
+  "date": {
+    "value": "24-03-18",
+    "confidence": 0.847
+  },
+  "items": [],
+  "total_amount": {
+    "value": "14.90",
+    "confidence": 0.987
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.881
+}

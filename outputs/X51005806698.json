@@ -1,0 +1,28 @@
+{
+  "filename": "X51005806698.jpg",
+  "processed_at": "2026-04-26T02:34:06.064545",
+  "ocr_engine": "easyocr",
+  "raw_text": "ADVANCO COMEANY Company Reg; No. 725186-V NO 183, Jalan Wangsa Delima 12, Wangsa Link, Wangsa Maju, 53300 Kuala Lumpur 03-41318972 GST Reg: 001658445824 TAX INVQICE CB#: 395164 28/0222018 6.02.25 M# M1-0 Cashier - C1OOO Descripion Price Total UNICORN GLUE STICK USG-21G2S SR 2 27755 5.80 11.60 Item Discount 10% -1.16 2 Type: Total 1.60 Rounding Adj 001 Total Inclusive GST: 1045 CASH Z0.oo Change 9.55 GST Summary Code % Net Amt GST Total SR 6% 9.85 0.59 10.44 Total 9.85 0.59 10.44 NAS GREAT IDEA Thank you & Please come again. Goods sold are not returnable for refund or exchange I! Qty",
+  "store_name": {
+    "value": "Company Reg; No.",
+    "confidence": 0.625
+  },
+  "date": {
+    "value": "6.02.25",
+    "confidence": 0.92
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.60",
+    "confidence": 0.935
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.695
+}

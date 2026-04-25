@@ -1,0 +1,28 @@
+{
+  "filename": "X51005746204.jpg",
+  "processed_at": "2026-04-26T02:26:16.102900",
+  "ocr_engine": "easyocr",
+  "raw_text": "(p BENEED (SP) SDN_ BHD. No.l9, Jalai @ Iar G VJ6 , sibaig Perdaia, 40 IS0 Siai Abm _ @bigor DE. 03-7845 8155 GST Reg 01734164480 CASH RE CEIPI Cb# 236100411023 27/0alxz013 0627:41 Cashier mimie Kx CodegDesc Pice Total PRISTIN MOPL FISH 0IL 9 R 485920 143.70 14.70 ALPHA LiPid LIFE LINE 0 R 1184810 165.00 165.@D 2 Type: 2 sub Total: 308.70 Rounding Adj @,do Total Inclusive GST: 308.70 MASTER 308.7 0 0 ST Summary: Amount Tax (MY R) (MY R) SR 201.3 17.4 ONG GURT CHYE Poiri $ 1,546 3cR7 Thank you. Please core again:",
+  "store_name": {
+    "value": "BENEED (SP) SDN_ BHD.",
+    "confidence": 0.542
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [],
+  "total_amount": {
+    "value": "308.70",
+    "confidence": 0.957
+  },
+  "currency": {
+    "value": "USD",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.63
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "X51005757346.jpg",
+  "processed_at": "2026-04-26T02:31:20.602351",
+  "ocr_engine": "easyocr",
+  "raw_text": "3180205 HR _ 0. I.Y. (M) SDN   BHD (CO.REG 85067 1-0) LOT 1851-4 & 1851-B , JALAN KPB 6 , KahASAN PERINDUSTRIAN BALAKONG 43300 SERI KEHBANGAN_ SELANGOR (GST Id No 000306020352 ) (IOI PUChOnG) ~Tax INVOICE - DOUBLE EXT BOX 10Y40/016 CBD4110 #S HA21 20 9553114461423 1 X 25 , 90 25,90 PLASTIC BAGS #S 99999 1 X 0 ,20 0.20 Item(s) 2 Qty(s) 2 Total Inc] _ GST26x RM 26 , 10 CASH RH 50 , 00 CHANGE RK 23 . 90 GST @6X included in total RM 1.48 T- 23-03-18 18:09 SHO 1 2J86 T1 ROoo111754 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOHED WITHIN DAY hITH RECEIPT_ STRICTLY NO CASH REFUND _",
+  "store_name": {
+    "value": "3180205",
+    "confidence": 0.731
+  },
+  "date": {
+    "value": "23-03-18",
+    "confidence": 0.864
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.48",
+    "confidence": 0.729
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.811
+}

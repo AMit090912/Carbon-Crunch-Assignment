@@ -1,0 +1,39 @@
+{
+  "filename": "X51005757349.jpg",
+  "processed_at": "2026-04-26T02:31:25.910879",
+  "ocr_engine": "easyocr",
+  "raw_text": "31802053 GOLDEN KEY MAKER (000760274-k) No 5, Jalan Kenari 2 , Bandar Puchong Jaya , 47100 Puchong Se _ TEL; 03-58919941 FAX: 03-58919941 E-Mail: gldenkeymakertgmai ].com Website: Vw. g0Idenkeymaker ,com S/ HOE Inv No CS-0014134 24 Mar-2018 03;44;22 PH INVOICE No. Desc/Code Qty Price Disc% Amount NORHAL KEY 33100 4,00 0.00 16,00 2 NORMAL KEY LONG 33101 5,00 0.00 5,00 Total 5 Sub-Tota] 21,00 Discount 0,00 Net Total 21.00 Cash Received 50 , 00 Change 29,00 GOODS SOLD ARE NOT  RETURNABLE /REFUNDABLE langor Qty",
+  "store_name": {
+    "value": "GOLDEN KEY MAKER",
+    "confidence": 0.746
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [
+    {
+      "name": "33100 4,00 0.00",
+      "price": "16.00",
+      "confidence": 0.95
+    },
+    {
+      "name": "33101 5,00 0.00",
+      "price": "5.00",
+      "confidence": 0.947
+    }
+  ],
+  "total_amount": {
+    "value": "21.00",
+    "confidence": 0.97
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_date",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.669
+}

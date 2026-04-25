@@ -1,0 +1,29 @@
+{
+  "filename": "X51005757292.jpg",
+  "processed_at": "2026-04-26T02:30:34.940485",
+  "ocr_engine": "easyocr",
+  "raw_text": "3i80304/ MR _ 0.1.Y . (M) SDn BHD (CO,REG :86067 1-0) LOT   1851-4 & 1851-8_ JaLAN KPB 6, KahaSAN PERINDUSTRIAN BALAKONG 43300  SERI  KEMBANGAH SELANGOR (GST Id No :000306i020352 ) (IOi PUCHONG) ~Tax INVQICE- PP WATER FILTER CARTRIOGE INdOOR 1S #S HA38 100 2 X 3,30 6.60 9690059 Qty(s) 2 Item(s) Tota Inc] GST@6% RH 6.60 RM 50,00 CASK RM 4*.40 CHANGE GST #6% included in tota] RM 0.37 $ *-- 18-03-18 42:09_SHOT 2J86 T3 Ru00060580 OPERATOR TRAINEE CASHIER EXCHANGE  ARE_ALLOWED_WiThin DAy WIth RECEIPT STRICTLY nQ cASH REFUND ,",
+  "store_name": {
+    "value": "MR _",
+    "confidence": 0.612
+  },
+  "date": {
+    "value": "18-03-18",
+    "confidence": 0.641
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6.60",
+    "confidence": 0.45
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date",
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.656
+}

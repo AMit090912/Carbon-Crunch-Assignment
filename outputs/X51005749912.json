@@ -1,0 +1,34 @@
+{
+  "filename": "X51005749912.jpg",
+  "processed_at": "2026-04-26T02:28:59.707824",
+  "ocr_engine": "easyocr",
+  "raw_text": "MR _ D,I,Y _ (M) SDN  BHD Co-REG:880671-D Lot   1851-4 & 1851-B _ JALAN KPB 6 , Kawasan  PERINDUSTRIAN BALAKONG 43300   SERI KEMBANGAN SELANGOR (GST ID No :000306020352) (TESCO EXTRA ARA DAMANSARA ) -TaX 1NVOICE COPPER BASIN PILLAR TAP R #S Jao1-04 2/66 9072363 1 X 29,90 29.90 PADLOCK ST-P6140  4OMM #S LE51/2 12/48 6942131561408 1 X 8, 90 8 . 90 Item(s) 2 Qty(s) 2 Total IncL , GST@6% RM 38 . 80 CASH RM 50 ,00 CHANGE RM 11.20 GST  Summary Amt ( RM) Tax(RM) GSTS@6X 36 , 60 2.20 #-- ~} 28-03-18 18 :05   SHO 1 2J42 T2 RO00246362 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED  WIThIn 7 DAY WITH RECEIPT . STRICTLY NO CASH REFUND _",
+  "store_name": {
+    "value": "MR _",
+    "confidence": 0.618
+  },
+  "date": {
+    "value": "28-03-18",
+    "confidence": 0.974
+  },
+  "items": [
+    {
+      "name": "9072363 29.90 1 X",
+      "price": "29.90",
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": "11.20",
+    "confidence": 0.671
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.791
+}

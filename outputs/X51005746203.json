@@ -1,0 +1,25 @@
+{
+  "filename": "X51005746203.jpg",
+  "processed_at": "2026-04-26T02:26:03.404994",
+  "ocr_engine": "easyocr",
+  "raw_text": "SUPER SEVEN CASH 8 CARRX SON BHD (590150-4) PASARAYA BORONG SUPER SEVEN: NC _ Ja lan Euro Off Jalan Batu Tiga Suigai Buloh Seksyen U3 Shah Alam,40150 http:/ /Iww super7.cOm.my TEL 03-78590861 FAX 03-78590864 GST ID 000639090688 TaX INVOICE Customer [77853745] Mrs _ Ong GuAt CHYE TAX. INVOICE NO 179509 COUNTER 004 QFERATOR [NUR   ATIQAH BInTi MUH-CASHIER] 01-03-2018 09:23:06 AM (RM) 53 TENDERLION @43,37 40212 +1 43,37 ZR 031 TENDERLOIN 049. 42 40240 #1 49.42 ZR D3 FENDERLOIN @43.90 40240 #1 43.90 ZR Dz TENDFRLOIN 049. 66 40240 #1 49.66 ZR AYAMAS CHICKEN FRANKFURTER 340G @4.30 9556276020392 +8 34.40 SR BUTTERCUP  Luxury SPREAD 500G e9.90 88880 10995552 *1 9.90 SR BLTTERCUP LUXURY SPREAD SOOG @9.90 6888010995552 *1 9.90 SR Qy CINCAL 2kG 03 . 90 9554100149455 #1 3.90 SR CRAB NUGGET 5OOG  MUSHROOM @8.20 9557240160502 #20 164.00 SR QUAnTity 35 Units Tcta] Sales ( Inc] , GST @67) RM4OS . 45 Rounding Adjustment RMO , Q0 Net Total RM4OB . 45 Payment Method MASTER CARD GST  Summary Sa les Amt Tax Amt (RM) (RM) ZR (OX _ 186 ,35 0,00 SR (62) 209.53 12.57 PLEASE VERIFY YOUR RECEIPT Lp8 _ BEFORE LEAVING THE COUNTER , GCODS  SOLD ARE NOT  RETURNABLE , THANK   YOU",
+  "store_name": {
+    "value": "(590150-4)",
+    "confidence": 0.767
+  },
+  "date": {
+    "value": "01-03-2018",
+    "confidence": 0.932
+  },
+  "items": [],
+  "total_amount": {
+    "value": "209.53",
+    "confidence": 0.951
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.892
+}

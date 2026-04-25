@@ -1,0 +1,33 @@
+{
+  "filename": "X51005764154.jpg",
+  "processed_at": "2026-04-26T02:32:33.513828",
+  "ocr_engine": "easyocr",
+  "raw_text": "Dis PANA JAYA ENTEAPRI SE NO , 10-G, GAQUND FLoor_ JALAN DINAA 0 03/0 TAMAN SLIBANG PEADANA , SEK U3 , 40150 SHAH ALAM. SELANGOFI TEL:03-7847 2376 FAX- 03-7847 2378 (GST Reg_ No 0nz069430464) Tax Irivoi CG INV No 537422 Qty(s) ' 12 Date 25-01-2018 I8* 10:28 Cashier CASHIERZ Cescr IptTon Qly U price Total TAX CAYSTAL CATERING FOIL ISKG 4S0X18' 35.00 35.00 SR EC 7 PP PLATE (SOPCS) 10 X 6.25 62.50 SR EC 9 PP PLATE( SOOPCS)CTN 1O8 . 00 108 O0 SR Total (Exc luding GST ) 193 &7 GST payab| 0 6%) 11.63 Total (Inclusive of GST ) 205 5o TOTAL: 205,.50 CASH 205- 5 205,50 GST Summar y Amount (AM) Tax(AM) SR (@ 67 _ 193 87 11,63 Thank Yau Please Coma Agaln Goods Spld Are Not Ref undable (w ) Yo sl& 6 4",
+  "store_name": {
+    "value": "PANA",
+    "confidence": 0.787
+  },
+  "date": {
+    "value": "25-01-2018",
+    "confidence": 0.885
+  },
+  "items": [
+    {
+      "name": "SR 35.00",
+      "price": "35.00",
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": "35.00",
+    "confidence": 0.974
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.743
+}

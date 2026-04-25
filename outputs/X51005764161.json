@@ -1,0 +1,34 @@
+{
+  "filename": "X51005764161.jpg",
+  "processed_at": "2026-04-26T02:32:45.046848",
+  "ocr_engine": "easyocr",
+  "raw_text": "cn)\" xt'lu - 99 SPEEI MarT 5/8 {519537-X) LOT P,T, 2811, JALAN ARGSA; TAmAN BEPKELEY 41150 KlanG, SELANGGR 1313-SWbaNG  BESTARI GST ID, No 000181747712 INVOICE HO 18291/102/T0380 06:(4FN 569004 28-0-18 5593 LEA PERRINS S0S LORC RrS8,89 ei1 X Rm 8.99 Total Sales {Inclusive GST) RN S8, 39 Rpunding Adjustment RM 01 Rcunding Rm 98 , 90 CREDIT Pm 98 . 90 CHAHCE Rm 0f 6ST Suznary Acourt (Rh) Tax(RH) 87 93.28 5,61 98.70 Thank You. Please come Keep +7e invoice {or applicabi 0 returns again",
+  "store_name": {
+    "value": "TAmAN BEPKELEY",
+    "confidence": 0.554
+  },
+  "date": {
+    "value": "28-0-18",
+    "confidence": 0.586
+  },
+  "items": [
+    {
+      "name": "ei1 X Rm",
+      "price": "8.99",
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": "93.28",
+    "confidence": 0.861
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.738
+}

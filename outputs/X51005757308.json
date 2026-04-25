@@ -1,0 +1,33 @@
+{
+  "filename": "X51005757308.jpg",
+  "processed_at": "2026-04-26T02:30:54.526769",
+  "ocr_engine": "easyocr",
+  "raw_text": "3l80304f MR _ D,H.Y, (M) SDN BHD (CO,REG 86067 1-D) ` LOT 1851-A & 1851-B, JALAN KPB 6 Kahasan PERINDUSTRIAN BaLAKONG_ 43300 SERI KEMBANGAN _ SELANGOR ( GST Id No 000306020352 ) (IOI PUCHONG ) TaX INVOICE - CloTh TAPE 46MM#SM (RED) #S RC22-32 36 9084 134 X 1.90 1.90 BOPP TAPE 48HM+ |OOM CLEAR #S GB12-21-22 36 6935818350846 X 3,90 3 , 90 CLoTh TAPE 46MM+SM (GREEN) #S HDo3 36 9084 135 1 X 1.90 1,90 DBL SIDE CLEAR ACRYiIC TAPE Vst1O6C #S Ha10 8/64 9554100363103 1 X 11,90 11.90 'S TAPE 1,8+156 #S MC42 88 9080456 1 X 1.70 1.70 PLASTIC BAGS #S 99999 1 X 0,20 0.20 Item(s) 6 Qty(s) 6 Total Inc] . GST6% RH 21.50 CASH RH 50 , 00 CHANGE RM 28.50 GST  @68 inc luded in total RH 1.22 T- Cst 21-03-18 12:27 SHO 1 2J86 T2 Rooo1 10882 OPERATOR TRAINEE  CASHIER EXCHANGE ARE ALLOHED hithiN 7 Day HITH RECEIPT STRICTLY nO CASH REFUND ,",
+  "store_name": {
+    "value": "MR _",
+    "confidence": 0.521
+  },
+  "date": {
+    "value": "21-03-18",
+    "confidence": 0.975
+  },
+  "items": [
+    {
+      "name": "99999 1 X 0.20",
+      "price": "0.20",
+      "confidence": 0.946
+    }
+  ],
+  "total_amount": {
+    "value": "1.22",
+    "confidence": 0.98
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name"
+  ],
+  "overall_confidence": 0.868
+}

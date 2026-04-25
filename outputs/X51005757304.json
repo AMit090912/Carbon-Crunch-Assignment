@@ -1,0 +1,34 @@
+{
+  "filename": "X51005757304.jpg",
+  "processed_at": "2026-04-26T02:30:47.343679",
+  "ocr_engine": "easyocr",
+  "raw_text": "#000002 E4teu (M) Sdn Bhd CONPANY \"N0(814198-X)' DAISo  JAPAN_ IOI MALL PHONE 03-80763806 GST  ID 001389649920 WELCOHE Tax INVOICE 20/03/2018.7 Q7pn RGPT NO , 18252 REG:OT`CSH:oooooo08 4997642045475 Plastic_spoons &pcs 5,90 X 3 17.70 SR 4997642045482 Plastic_forks &pcs 5,90 X 3 17,70 SR SUB TOTAL (iNCL , GST) 35.40 TOTAL PH 35,40 CASH 50 , 00 chhlee 14.60 4 ITEHS SQL 6 Tax Code Amt(RM) GST (RH) GST   (6.000) 33, 40 .2,00 \"THANK   YOU\"\" ~PLEASE COME AGAIN 5120204S",
+  "store_name": {
+    "value": "001389649920",
+    "confidence": 0.78
+  },
+  "date": {
+    "value": "20/03/2018",
+    "confidence": 0.454
+  },
+  "items": [
+    {
+      "name": "PH",
+      "price": "35.40",
+      "confidence": 0.602
+    }
+  ],
+  "total_amount": {
+    "value": "35.40",
+    "confidence": 0.968
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_date",
+    "low_confidence_item_0"
+  ],
+  "overall_confidence": 0.745
+}

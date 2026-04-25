@@ -1,0 +1,33 @@
+{
+  "filename": "X51005757323.jpg",
+  "processed_at": "2026-04-26T02:31:02.771581",
+  "ocr_engine": "easyocr",
+  "raw_text": "2180300 HR _ D,.Y. (M) SDN BHD (C0.REG :880671-D) LOT 1851-4 8 1851-B _ JALAM KPB 6 Kamasan PERINDUSTRIAN BALAKONG 43300 SERI KEHBANGAN _ SELANGOR (GST ID No 000306020352 ) (ioI PUChonG) ~TaX INVOICE - PILLAR SINK TAP 87601 #S 0zo5 5/60 9074824 1 X 19,90 19,90 NASCO SEAL TAPE NST #S HA33 100/1000 918050 1 X 0 . 80 0 , 80 S/S COLANDER RH-008# 24, 5CM #S AD41/2 5/100 9067474 1 X 7.30 7.30 Item(s) 3 aty(s) 3 Tota] Incl GST@6% RM 28 , 00 CASH RM 40 . 00 CHANGE RM 12.00 GST @6%  included in tota] RH 1.58 T- 26-03-18 15:25 SHO 1 2j86 Ti ROOO 1 12587 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED HITHIN 7 DAy WITH RECEIPT STRICTLY NO CASH REFUND _",
+  "store_name": {
+    "value": "2180300",
+    "confidence": 0.718
+  },
+  "date": {
+    "value": "26-03-18",
+    "confidence": 0.975
+  },
+  "items": [
+    {
+      "name": "9074824 1 X 19,90",
+      "price": "19.90",
+      "confidence": 0.937
+    }
+  ],
+  "total_amount": {
+    "value": "12.00",
+    "confidence": 0.45
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.8
+}

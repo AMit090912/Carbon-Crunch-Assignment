@@ -1,0 +1,25 @@
+{
+  "filename": "X51005806679.jpg",
+  "processed_at": "2026-04-26T02:33:10.880164",
+  "ocr_engine": "easyocr",
+  "raw_text": "LEE WAK FLorIST SDN BHD (521273-W) 129, JALAN TUNH.SLEE, 50000 KUALA !UMPUR: Teil 03-20782322 012-5383466 FaX 03- SALES@LEEWAHFLORIST.COM GST ID : 0010114990C8 IAXIVQIGE Doc No. CS(IO183546 Date: 92/02/2018 Cashler USEER Tme 21.41.00 Salasperson Ret:: (GST) (GBT) Itett SIPrice SiPrice Araount Titx 1015 2 1200 7: 501 SR PEACOCK YELlOW 34,j 30 04 144.16 SR 1012 STATICE FULL IMP 1145 S8.Qu 81 48 01.48 SR CONCORDO 2H4 1037 2 6.C0 6.36 1272 SR SNCJWV Wfiite LEAF 3 %0 3.71 3.71 SR 1050 FLORIDA 8EAUTY 9,00 5.54 38,16 SR 1097 PALM LEAF L 4.50 4.77 14.31 SR 1038 PALM LEAF M 2200 23.32 24,32 SR 1006 ROSE INDIA SUPERICR 12.02 12.72 50.28 SR 2748 SUCCULENT L Tfolal Qly: 22 374.18 Total Salas ,Excluding GST) 353.00 Discount 0.00 Total GST 21,18 Rounding 0.02 Tolal Salee (Inclusive of GST) 374.20 CASH 400.00 Change 25.80 GST SUMMARY Tax Code Amvl (RI} Tax(RM) SR 353,0C; 21.18 Total 353.00 21.18 GOODS SOLD ARE NOT RETURAABLE, THANK YOU: Lily",
+  "store_name": {
+    "value": "129, JALAN TUNH.SLEE,",
+    "confidence": 0.718
+  },
+  "date": {
+    "value": "92/02/2018",
+    "confidence": 0.891
+  },
+  "items": [],
+  "total_amount": {
+    "value": "353.00",
+    "confidence": 0.949
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [],
+  "overall_confidence": 0.869
+}

@@ -1,0 +1,28 @@
+{
+  "filename": "X51005757324.jpg",
+  "processed_at": "2026-04-26T02:31:09.246571",
+  "ocr_engine": "easyocr",
+  "raw_text": "2180207 HR _ D.I.Y. (H) SDN  BHD (CO .REG 86067 1-D) LOT 1851-A & 185 1-B , Jalan KPB 6 KAHASAN PERINDUSTRIAN BALAKONG _ 43300 SERI KEMBANGAN _ SELANGOR (GST Id No 000306020352 ) (IOi PUChOnG) -TAX INVOICE - TRAC @RY IRON TR-231IR ~1200H ( SR) N #S WA10 12 9555493002853 26 , 90 26 . 90 SInGLE BFOSHEET SET 90+188+20CH #S JD52-63 20 9034713 X 23.90 23 . 90 Item(s) 2 Qty(s) 2 Tota1 Inc]_ GST@6% RM 50 .80 CASH RH 51.00 CHANGE RK 0.20 GST  @6%  included in total RM 2 , 88 T-- 25-03-18 18;47 SHO 1 2.86 T1 ROoo112415 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOHED WITHIn ( Day WITH RECEIPT_ STRICTLY NO CASH REFUND ,",
+  "store_name": {
+    "value": "2180207",
+    "confidence": 0.577
+  },
+  "date": {
+    "value": "25-03-18",
+    "confidence": 0.776
+  },
+  "items": [],
+  "total_amount": {
+    "value": "2.86",
+    "confidence": 0.603
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.719
+}

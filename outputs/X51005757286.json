@@ -1,0 +1,33 @@
+{
+  "filename": "X51005757286.jpg",
+  "processed_at": "2026-04-26T02:30:20.670152",
+  "ocr_engine": "easyocr",
+  "raw_text": "31803039 {Sh POWER HARDWARE TRADING 002458685.T 13-1, Jalan PJU 5/10, Datarari Sunway, Kota Damansara, 47810,Petaling Jaya, Selangor Tel:012-373 2096 TAX INVOICE GST No: 000460664832 Invoice No 01-145995 Date 10/10/2017 4.22:12 PM Descuption Price Amount 1 MAJESTA HSS 2 4,00 8,u0\" SRT JOBBER DRILLS 3.SMM Sub Total: 8.00 Round Amt: 0.QQ NET TOTAL 8.00 Cash Received 8.00 GSI Summary Amount(RM)_ Tax(RM) SR-6.00% 7.55 0.45 4#1 'Thank You: 44+ Please Come Again. Reg Qty_",
+  "store_name": {
+    "value": "TRADING",
+    "confidence": 0.787
+  },
+  "date": {
+    "value": "10/10/2017",
+    "confidence": 0.652
+  },
+  "items": [
+    {
+      "name": "SR-6.00% 7.55",
+      "price": "0.45",
+      "confidence": 0.93
+    }
+  ],
+  "total_amount": {
+    "value": "8.00",
+    "confidence": 0.987
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.855
+}

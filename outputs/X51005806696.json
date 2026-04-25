@@ -1,0 +1,29 @@
+{
+  "filename": "X51005806696.jpg",
+  "processed_at": "2026-04-26T02:33:58.887439",
+  "ocr_engine": "easyocr",
+  "raw_text": "IMAGE PRINTEC (M) SDN BHD No: GST: 00t: 1241862144 No Jalan Delima 11, 53300 Kuala T:+(603) _ 9822 4141 9722 IAX 61967 23/02923187.44.16 Qty 2 COLOR COPY A4 2 PHOTOCOPY _ 1.00 2.00 SR 2 LAMINATE A4 0.10 0.20 SR A4 Type: 3 250 5.00 SR SubTotal: GST 6% 7.20_ 043 NET TOTAL: 0.02 CASH 7.65 10.00 2,35 yol: come again. Reg 416123-U 12A-G, Wangsa Dwwangsa Wangsa Maju; Lumpur: 4141 Fx+{603) IVOICE CB# Salesperson - Desc Price Total Rounding Adj Change: Thank Please",
+  "store_name": {
+    "value": "IMAGE PRINTEC (M) SDN BHD",
+    "confidence": 0.642
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0.02",
+    "confidence": 0.729
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.443
+}

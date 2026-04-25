@@ -1,0 +1,33 @@
+{
+  "filename": "X51005806685.jpg",
+  "processed_at": "2026-04-26T02:33:28.750385",
+  "ocr_engine": "easyocr",
+  "raw_text": "ADVANCO COMPANY Company Reg: No 725186-V NO 183, Jalan Wangsa Delima 12, Wangsa Link, Wangsa Maju; 53300 Kuala Lumpur 03-41318972 GST Reg : 001658445824 TAX INVQICE CB# 389772 17/01020(8 8.08.53 M# M1 0 Cashier CIOOO - Qty Descripion Price Totai CANON PG-47BK E400 BLACK FINE ( SR 27736 29.00 29,00 Type: Total 29.00 Roundirg Adj Total Inclusive GST: 29.00 CASH 50,80 Change 21.00 GSL Summary Coue Net Amt GST Total SR' 6% 27,36 1.64 29.00 Total 27.36 1.64 29.00 Thank you & Please comne again Goods soid are not returable for refund or exchange II",
+  "store_name": {
+    "value": "ADVANCO COMPANY",
+    "confidence": 0.778
+  },
+  "date": {
+    "value": "8.08.53",
+    "confidence": 0.72
+  },
+  "items": [
+    {
+      "name": "27736 29.00",
+      "price": "29.00",
+      "confidence": 0.95
+    }
+  ],
+  "total_amount": {
+    "value": "29.00",
+    "confidence": 0.974
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.744
+}

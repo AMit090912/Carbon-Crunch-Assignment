@@ -1,0 +1,1814 @@
+{
+  "receipts": [
+    {
+      "filename": "X51005746140.jpg",
+      "processed_at": "2026-04-26T02:25:21.092263",
+      "ocr_engine": "easyocr",
+      "raw_text": "cP1 YONG CEN ENTERPRISE 9 JALAN SUBANG JASA 3, 40150 SHAH ALAM; SELANGOR; TEL: 012.9719498 GST NO: 001147981824 Lane CASH RECEIPT # CSO0677115 DATE: 02/03/2018 SALESPERSON TIME: 09.43.00 COUNTER A ITEM QTY UIP AMOUNT 9555223500307 24 2.33 55.99 SR:FEI YAN BRAND YOUNG CORN 425G (2.333X 9557166110018 2 2.00 4,00 ZRL:ASAM BOI 656 LezAa TOTAL QUANTITY 26 SUB-TOTAL 59,99 DISC 0.00 GST 3.36 TAX 0.00 62 HX ROUNDING 0 TOTAL 63.35 CASH 63.35 CHANGE 0,00 GOODS SOLD ARE NOT RETURNABLE, THANK: YOU. CCt",
+      "store_name": {
+        "value": "YONG CEN ENTERPRISE",
+        "confidence": 0.661
+      },
+      "date": {
+        "value": "02/03/2018",
+        "confidence": 0.742
+      },
+      "items": [
+        {
+          "name": "DISC",
+          "price": "0.00",
+          "confidence": 0.949
+        }
+      ],
+      "total_amount": {
+        "value": "59.99",
+        "confidence": 0.838
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.698
+    },
+    {
+      "filename": "X51005746203.jpg",
+      "processed_at": "2026-04-26T02:26:03.404994",
+      "ocr_engine": "easyocr",
+      "raw_text": "SUPER SEVEN CASH 8 CARRX SON BHD (590150-4) PASARAYA BORONG SUPER SEVEN: NC _ Ja lan Euro Off Jalan Batu Tiga Suigai Buloh Seksyen U3 Shah Alam,40150 http:/ /Iww super7.cOm.my TEL 03-78590861 FAX 03-78590864 GST ID 000639090688 TaX INVOICE Customer [77853745] Mrs _ Ong GuAt CHYE TAX. INVOICE NO 179509 COUNTER 004 QFERATOR [NUR   ATIQAH BInTi MUH-CASHIER] 01-03-2018 09:23:06 AM (RM) 53 TENDERLION @43,37 40212 +1 43,37 ZR 031 TENDERLOIN 049. 42 40240 #1 49.42 ZR D3 FENDERLOIN @43.90 40240 #1 43.90 ZR Dz TENDFRLOIN 049. 66 40240 #1 49.66 ZR AYAMAS CHICKEN FRANKFURTER 340G @4.30 9556276020392 +8 34.40 SR BUTTERCUP  Luxury SPREAD 500G e9.90 88880 10995552 *1 9.90 SR BLTTERCUP LUXURY SPREAD SOOG @9.90 6888010995552 *1 9.90 SR Qy CINCAL 2kG 03 . 90 9554100149455 #1 3.90 SR CRAB NUGGET 5OOG  MUSHROOM @8.20 9557240160502 #20 164.00 SR QUAnTity 35 Units Tcta] Sales ( Inc] , GST @67) RM4OS . 45 Rounding Adjustment RMO , Q0 Net Total RM4OB . 45 Payment Method MASTER CARD GST  Summary Sa les Amt Tax Amt (RM) (RM) ZR (OX _ 186 ,35 0,00 SR (62) 209.53 12.57 PLEASE VERIFY YOUR RECEIPT Lp8 _ BEFORE LEAVING THE COUNTER , GCODS  SOLD ARE NOT  RETURNABLE , THANK   YOU",
+      "store_name": {
+        "value": "(590150-4)",
+        "confidence": 0.767
+      },
+      "date": {
+        "value": "01-03-2018",
+        "confidence": 0.932
+      },
+      "items": [],
+      "total_amount": {
+        "value": "209.53",
+        "confidence": 0.951
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.892
+    },
+    {
+      "filename": "X51005746204.jpg",
+      "processed_at": "2026-04-26T02:26:16.102900",
+      "ocr_engine": "easyocr",
+      "raw_text": "(p BENEED (SP) SDN_ BHD. No.l9, Jalai @ Iar G VJ6 , sibaig Perdaia, 40 IS0 Siai Abm _ @bigor DE. 03-7845 8155 GST Reg 01734164480 CASH RE CEIPI Cb# 236100411023 27/0alxz013 0627:41 Cashier mimie Kx CodegDesc Pice Total PRISTIN MOPL FISH 0IL 9 R 485920 143.70 14.70 ALPHA LiPid LIFE LINE 0 R 1184810 165.00 165.@D 2 Type: 2 sub Total: 308.70 Rounding Adj @,do Total Inclusive GST: 308.70 MASTER 308.7 0 0 ST Summary: Amount Tax (MY R) (MY R) SR 201.3 17.4 ONG GURT CHYE Poiri $ 1,546 3cR7 Thank you. Please core again:",
+      "store_name": {
+        "value": "BENEED (SP) SDN_ BHD.",
+        "confidence": 0.542
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [],
+      "total_amount": {
+        "value": "308.70",
+        "confidence": 0.957
+      },
+      "currency": {
+        "value": "USD",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.63
+    },
+    {
+      "filename": "X51005746206.jpg",
+      "processed_at": "2026-04-26T02:26:23.407740",
+      "ocr_engine": "easyocr",
+      "raw_text": "PANA JAYA ENTERPA I SE NO, 10-6 , GrOund FLoOA , JALAN DINAR D_ U3/0,TAMAN SUBANG PEAOANA SEK U3_ 40150 SHAH ALAM, SELANGOR . TEL:03-7847 2376 FAX:03-7847 2378 GST Reg . No 002069438464) Tax Invoice INV No . 539405 Qlyls) : 2 Date 21-03-20108 10:37:49 Cashi0) CASKIERz Descr ipt ion Qty U pr ice Total TAX 9928 28 In BASIN 1 X 35 ,o0 35.00 SR tg WFd3z PP BOWL CTN 1 X 70 . 00 70 . 00 SR Total (Exc uding GST ) 99.06 GST payabl0 (6k) = 5.94 Total (Inclusive of GST ) 105,00 TOTAL: 105 00 CASH 105_00 GST   Summary Amount(AM) Tax( AM) SR (0 67) 99.06 5.94 Thank  You Please Cone Again Goods Sold Are Not Alefundable iO(T",
+      "store_name": {
+        "value": "PANA",
+        "confidence": 0.777
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [
+        {
+          "name": "(0 67) SR 99.06",
+          "price": "5.94",
+          "confidence": 0.76
+        }
+      ],
+      "total_amount": {
+        "value": "99.06",
+        "confidence": 0.964
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_date",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.58
+    },
+    {
+      "filename": "X51005746207.jpg",
+      "processed_at": "2026-04-26T02:26:40.185382",
+      "ocr_engine": "easyocr",
+      "raw_text": "SUPER SEVEN CASH & CARRY SDN 'BHD (590 150-A) PASARAYA BORONG  SUPER SEVEN NO _ Ja lan Euro Off Jalan Batu Tiga Sungai Buloh Seksyen U3 Shah Alam,40150 http: / /ll. super7 .COM .my TEL 03- 78590861 FAX 03-78590864 GST ID 000639090688 tAX INVOICE Customer [77853745] Krs _ ONG  GUAT CHYE TaX INVOICE NO 203225 COUNTER :002 OPERATOR [SYED  AHMAD FALLAH 8I-CUSTOMER SERVICE CLERK] 21-03-2018 11;25;07 AM (RM) === FRUIT  (FP) @2.99 41595 #1 2.99 ZR NANGKA PINGGAN @2.00 FM415000303 #1 2.00 ZR KIMBALL TOMATo PUREE  430G @3. 80 9556191030230 #1 3.80 SR KIMBALL TOMATO purEe 4306 @3.80 9556191030230 #1 3.80 SR URO  MUSHROOH 425G @2 . 80 9555227500563 #1 2.80 SR YOunG  CORN  425G  (MS) @2. 90 9555654400313 #1 2.90 SR Quantity 6 Units Total Sales (Inc] , GST C68) RM18.29 Rounding Adjustment RMO ., 01 Net Total Is Iro RM18,30 Payment Method MASTER CARD GST   Slmnmary Sales Amt Tax Amt (RM) (RM) ZR (O% 4.99 4Q0 SR (\u20ac :) 12.54 0,76^ PLEASE VERIFY YOUR RECEIPT BEFORE LEAVING THE COUNTER , GOODS   SOLD ARE   NOT  RETURNABLE . THANK YOU",
+      "store_name": {
+        "value": "CARRY SDN 'BHD",
+        "confidence": 0.705
+      },
+      "date": {
+        "value": "21-03-2018",
+        "confidence": 0.959
+      },
+      "items": [],
+      "total_amount": {
+        "value": "18.30",
+        "confidence": 0.798
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.845
+    },
+    {
+      "filename": "X51005746210.jpg",
+      "processed_at": "2026-04-26T02:26:55.639311",
+      "ocr_engine": "easyocr",
+      "raw_text": "Segi Cash & Carry Sdn. Bhd: (317041-W) Pt17920 Sek U9 Shah Alau GST No 001951645696 Invoice Mo 31911 Date 12 Mar 2018 08;51ar Counter 09 KNIFE COOKING QIL SKG 1 X 25 , 80 25.80 2 LKK HOI SIN SAUCE 2406 1 x 7.69 7.69 $ SEVEN FRENCH FRIES S/S 2.5KG 1 X 13.50 13.50 $ IQf   SQuiD  TUBE 1KG+- 1 x 10.9 10,90 2 10F   SQWid TUBE IKG+- 1 x 10.90 10.90 2 IQF   SQUID TUBE 1KG+- 1 X 10 , 90 10.90 2 IQF  SQuiD TUBE LKG+- 1 X 10 . 90 10,90 2 IQF   SQUID TUBE 1KG+- 1 x 10.90 10.90 2 IQF  SQUID TUBE LKG+- 1 X 10 . 90 10 . 90 2 IQf   SQWID TUBE 1KG+- 1 X 10 . 90 10.90 2 I@F   sQuid TUBE IKG+- 1 X 10 .90 10.90 2 IQF   squid TUBE lKG+- 1 X 10 . 90 10.90 2 No of itens: 12 Subtotal Incl. GST:RM 145.09 Raunding;RM 0.01 Total Incl, GST RH 145.10 Haster XxxxxxxXxxxxOoo; 145.10 Change;RH 0.Qo Nissed Point Today: 143 Served by HIRA SURBAKTI Iat-(0 XXrtrilt= GST  Suewary Yx*i GST Code Anount (RH) Tax(Rri) 2 @Q.07 123.90 0 . Q0 S @6,02 19.99 1.20 X= Ref No: 00600736645031911 Goods Sold Are Nat Returnable. TQ Reg",
+      "store_name": {
+        "value": "001951645696",
+        "confidence": 0.786
+      },
+      "date": {
+        "value": "12 Mar 2018",
+        "confidence": 0.561
+      },
+      "items": [],
+      "total_amount": {
+        "value": "145.09",
+        "confidence": 0.8
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.767
+    },
+    {
+      "filename": "X51005749895.jpg",
+      "processed_at": "2026-04-26T02:27:23.567958",
+      "ocr_engine": "easyocr",
+      "raw_text": "\" ,01 4 Mi, ),.' (M) SDN BHD Co-RE ;:36067 1-D Lot 1851-A 4 1 351-B JALAN KPB 6 , KAHASAn PER [N )USTRIAN BALAKONG 43 300   SER [ K :MBANGAN SELANGOR (GST Id No :000306020352 ) (TESCO E(TR ARA DAMANSARA TAX INVOICE - PILLAR SINK TAP #S FZu2 6/54 9072351 2 X 23, 90 47 ,80 SHIFI DToX FIk 600 IL MP #S WAO 1 24 9556 |11988559 1 X 8 , 90 8 . 90 SPONGE KOREA-2S #S ARG2 12/312 9064017 4 X 3 ,00 12 ,00 PLASTIC BAGS #S 99q99 1 X 0 .20 0,20 VAnCE LIGHTER -Is VT02 #S WB22 50/10Q 9555258606 166, 5 X 0.60 3,0g Item(s) 5 Qty(s) : 13 TOTAL INcL. GSf@6 ; RM 71.90 CASH RH 72.00 CHA NGE RH 0 ,10 GS (   Summary Ant (RM ) Tax(RM) GST S@6x 67 . 83 4.07 bu kak * 02 -03-18 23 SH )1 2J42 T1 RO00227410 OPERATOR ' TADC A.IM ABDUL EXCHANGE HR 4LLOWED Withih DA ( # Th RECEIPT STRICT-Y 40 CASH REFUND _ ~bp",
+      "store_name": {
+        "value": "Mi, ),.'",
+        "confidence": 0.447
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [],
+      "total_amount": {
+        "value": "71.90",
+        "confidence": 0.985
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.613
+    },
+    {
+      "filename": "X51005749904.jpg",
+      "processed_at": "2026-04-26T02:28:01.030791",
+      "ocr_engine": "easyocr",
+      "raw_text": "STC CNTEILPEISE SDN BHD ('125830-V) 28-G, Graund F!aor Jalan Dnar 4 03/4 Tmn Subarg Perdana, 40150 Shah Alam, Selzngor. Tf FWUIcE (CST IL No . (02017008384 ) 06/03/2018 Cashier: 123 Z0:05;5e No;0100122617 [tem/Deec Qty Price Am t TME2 .5\"@{cat NYLON JLS 23 D621-1 2.0\"' 2.0O Opp TAPE 1.5\" OPP TAPE 1 . 5' 2.00 2.00 Tctal @ty TOTAZ AlOUMT 4.0o CASII 4 .0o GST Gj Icclde:} L! Torzl 0.22 Thark Yju c!ezse 'Jme \"gain Giojde Ec!\" Only E:fhergable W1 thzr 3 Dsys bzlpcs",
+      "store_name": {
+        "value": "('125830-V)",
+        "confidence": 0.674
+      },
+      "date": {
+        "value": "06/03/2018",
+        "confidence": 0.974
+      },
+      "items": [],
+      "total_amount": {
+        "value": "2.00",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_total_amount",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.6
+    },
+    {
+      "filename": "X51005749905.jpg",
+      "processed_at": "2026-04-26T02:28:27.464614",
+      "ocr_engine": "easyocr",
+      "raw_text": "ENW Hardware Centre (M) Sdn: Bhd: Co. Reg: No:: 795225-A GST Reg: No: 000155453440 No: G3, Blk G,Jln PJU 1A3 , Ara Damansara, 47301 Petaling Jaya, Selangor Darul Ehsan. TEL: 03-7832 6929 012-659 9829 10/03/2018 Tax Invoice No. 'CS00230322 Cash Sale (Ara D'sara) Tel: 03-7832 6929 HIP: 012-659 9829 Item Qty U.Price RM 001533 1.00 19.00 19.00 SR 2kgs. Wood Lacquer Thinner 000920 1.00 10.00 10.00 SR 1.5kg. Ufixx Putty Filler . 006828 2.00 2.50 5.00 SR 100# x 8\" x 45m Sand Paper Roll; Total Amt Incl: GST 6 % 34.00 Rounding Adjusment 0.00 Total Amt Payable 34.00 Total Qty Tender GSL Summary Amount (RM) GSTRM SR = 6 % 32.07 1.93 POINT O.00 \"Goods sold are not returnable Thank you for shopping at ENW Hardware Centre (M) Sdn. Bhd: Qait bX",
+      "store_name": {
+        "value": "Co. Reg: No:: 795225-A",
+        "confidence": 0.657
+      },
+      "date": {
+        "value": "10/03/2018",
+        "confidence": 0.88
+      },
+      "items": [
+        {
+          "name": "001533 19.00 SR 1.00",
+          "price": "19.00",
+          "confidence": 0.95
+        },
+        {
+          "name": "000920 10.00 10.00 SR",
+          "price": "1.00",
+          "confidence": 0.94
+        },
+        {
+          "name": "006828 5.00 SR 2.00",
+          "price": "2.50",
+          "confidence": 0.949
+        }
+      ],
+      "total_amount": {
+        "value": "34.00",
+        "confidence": 0.976
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name"
+      ],
+      "overall_confidence": 0.896
+    },
+    {
+      "filename": "X51005749912.jpg",
+      "processed_at": "2026-04-26T02:28:59.707824",
+      "ocr_engine": "easyocr",
+      "raw_text": "MR _ D,I,Y _ (M) SDN  BHD Co-REG:880671-D Lot   1851-4 & 1851-B _ JALAN KPB 6 , Kawasan  PERINDUSTRIAN BALAKONG 43300   SERI KEMBANGAN SELANGOR (GST ID No :000306020352) (TESCO EXTRA ARA DAMANSARA ) -TaX 1NVOICE COPPER BASIN PILLAR TAP R #S Jao1-04 2/66 9072363 1 X 29,90 29.90 PADLOCK ST-P6140  4OMM #S LE51/2 12/48 6942131561408 1 X 8, 90 8 . 90 Item(s) 2 Qty(s) 2 Total IncL , GST@6% RM 38 . 80 CASH RM 50 ,00 CHANGE RM 11.20 GST  Summary Amt ( RM) Tax(RM) GSTS@6X 36 , 60 2.20 #-- ~} 28-03-18 18 :05   SHO 1 2J42 T2 RO00246362 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED  WIThIn 7 DAY WITH RECEIPT . STRICTLY NO CASH REFUND _",
+      "store_name": {
+        "value": "MR _",
+        "confidence": 0.618
+      },
+      "date": {
+        "value": "28-03-18",
+        "confidence": 0.974
+      },
+      "items": [
+        {
+          "name": "9072363 29.90 1 X",
+          "price": "29.90",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "11.20",
+        "confidence": 0.671
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.791
+    },
+    {
+      "filename": "X51005757199.jpg",
+      "processed_at": "2026-04-26T02:29:11.200344",
+      "ocr_engine": "easyocr",
+      "raw_text": "2i80300 POPULAR Book Co . (M) SDN BHD (Co. Nc; _ 13825-I' ) (GST\" Reg No. 001492992000) No 8, Ia an 7/081, Desa Tut Ra &k 56000 Kua |a Lupur , Ma luysia IO[ MALL Te | 03-80709 |88 1 8075,7830 01/03/18 12:36 S]ip No. 9070058756 SITI Trans : 21396 Heser ipli0n Anour \u20ac ITENVA. 5*9.5 1.90 T Iu j pes Env 4,SX9. 75 2 . 10 T Total RH [nc. of GST 4. 00 Cash -10. 00 CHANGE 6. 00 Ict Coun( (S?' Summary AmounL (RM) Tax (RM ) T 0 63 3. 77 0.23 Tolal Savings 0_ 00 BE A POPULAR CARD MEMBER AND) ENJOy SPECIaL DISCOUNTS Tlank Y(u. PEEASE: COhi: AGA [N; #ww_ papu ]ar', cOm. my Ch iui:sc books online WwW, popularon] COm. @y Bsuy ine.",
+      "store_name": {
+        "value": "POPULAR",
+        "confidence": 0.768
+      },
+      "date": {
+        "value": "01/03/18",
+        "confidence": 0.943
+      },
+      "items": [],
+      "total_amount": {
+        "value": "0.23",
+        "confidence": 0.95
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.895
+    },
+    {
+      "filename": "X51005757201.jpg",
+      "processed_at": "2026-04-26T02:29:19.989556",
+      "ocr_engine": "easyocr",
+      "raw_text": "31803003 AEON CO _ (N) BHD (126926-H) 3R8 FLR , AEON TAMAN MaLuri  SC JLN JEJAKA , TAMAN MALURT CHERAS , 55100 KUAla  LUhPUR GST   [O 002017394688 SHOPPIHG IYOURS SUN-THU; 1Q0} HRS 2200 HRS FRT-SAT : 1000 HRS 2300 HRS VALUED  CUSTOMER:  1370001392 Ix 0000001 18927 16.9OSR V-CHOR FRA Ix 000005270385 10 . 45SR CE 13312 LONG H Ix 000007940774 7.90SR BL  HARUI  WASHI Ix 000007940781 7.9OSR BL HARUMI   HASHT Ix 000007940781 7,90SR BL  HARUHT  WASHi Ix 000001397686 4,1OSR Lidi BROOM Wp Ix 000003697655 4,90SR E-T1/MP WATER D Ix 000002926759 8 , 9SR UNICORN 241IX DISC  10% 68.01 -0.89 Ix 000003761016 7,3OSR SH CE39148 NiL Ix 000001501083 2.50SR I8MX?  White D DISe'  10% 42.25 ~0.25 Ix (00004 |46858 18 , 90SR CABLE EOX DISC 41% 2@11,.16 ~7.74 Ix (Jn001888854 0 .2OSR PLASTICS BAG Sub-total 88.97 Total Sales Inc] GST O8,97 Rcsnding Ad) ~0,02 Iocal Afler Adj  (nc]  GST 88 , 95 CASH 100 ,00 Item Count i2 Char '2 Ant 11,05 Invuice No: 2013u22810082100090 GST  Sumiary Amount Tax SR @ &x 83.93 5.04 Tota] 83,93 5.04 28/02/2018 20:1 1 1008 210 2100090 0235138 SARYANI AEON BANDAR PUCHONG TEL 1-300-80-AEON (2366) ThAHK   YOU FOR YOUR  PATRuNAGe PLEASE  CUME  AGAIN",
+      "store_name": {
+        "value": "31803003",
+        "confidence": 0.592
+      },
+      "date": {
+        "value": "28/02/2018",
+        "confidence": 0.868
+      },
+      "items": [
+        {
+          "name": "DISC  10%",
+          "price": "68.01",
+          "confidence": 0.693
+        },
+        {
+          "name": "DISe'  10%",
+          "price": "42.25",
+          "confidence": 0.44
+        },
+        {
+          "name": "SR @ &x 83.93",
+          "price": "5.04",
+          "confidence": 0.552
+        },
+        {
+          "name": "Tota] 83,93",
+          "price": "5.04",
+          "confidence": 0.905
+        }
+      ],
+      "total_amount": {
+        "value": "88.97",
+        "confidence": 0.923
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_currency",
+        "low_confidence_item_0",
+        "low_confidence_item_1",
+        "low_confidence_item_2"
+      ],
+      "overall_confidence": 0.659
+    },
+    {
+      "filename": "X51005757233.jpg",
+      "processed_at": "2026-04-26T02:29:32.659591",
+      "ocr_engine": "easyocr",
+      "raw_text": "21803016 Guardlian Ilealth Atxl Beaaty &dn Rrcl IUI  Mall 631 672,, krd T lr , IUL   Kall Barilar  Ptn titig  'Jaxa Tel :03 58882 99bo Ccmeany Reg !1101085-T 687  RRcg  400(k;99674116 Aen P# 121048375  G0X 4P FLS 1OOtzo) 9.95 AUXTUTAL, 9.95 TOAL   (Gst   INCL) 9.95 LAGH 10.\u20ac CHAHGE  DUE 0.05 GT Rate GS(Exc} 6GT Aat 8 64 9.39 0.56 Thark Yoxu For Shopping At   Guarclian A11 Gmoxrts Are in TH tuods sold are KT-rcfundable. Hispersedl meclicines sold are not  returmable. AL1 excttarises and returns including bardian bratd eroducts mst be Mace within 'davs With original receiets a rrodct in original coridition: #t:806 (Itr2  TA:4986 Taxirv:6E0n9 J{x1y (09/03/18",
+      "store_name": {
+        "value": "21803016",
+        "confidence": 0.637
+      },
+      "date": {
+        "value": "09/03/18",
+        "confidence": 0.518
+      },
+      "items": [
+        {
+          "name": "121048375  G0X 4P FLS 1OOtzo)",
+          "price": "9.95",
+          "confidence": 0.414
+        },
+        {
+          "name": "AUXTUTAL,",
+          "price": "9.95",
+          "confidence": 0.49
+        },
+        {
+          "name": "CHAHGE  DUE",
+          "price": "0.05",
+          "confidence": 0.447
+        },
+        {
+          "name": "64 8 9.39",
+          "price": "0.56",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "9.95",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "EUR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date",
+        "low_confidence_total_amount",
+        "low_confidence_item_0",
+        "low_confidence_item_1",
+        "low_confidence_item_2"
+      ],
+      "overall_confidence": 0.581
+    },
+    {
+      "filename": "X51005757235.jpg",
+      "processed_at": "2026-04-26T02:29:40.036701",
+      "ocr_engine": "easyocr",
+      "raw_text": "siUg0it AEON CO, (M) BHD (126928-H) 3RD FLR, AEON TAMAN MALURI SC JLN JEJAka , TAMAN MALuri CHERAS , 55100 KUAL.A  LUHFUR GST [D 002017394688 SHOPPING  HOURS SuUN-THU: TOoo  HRS 2200  HIRS FRI-SAT : 10o0 HRS 2300 HRS VAL UED CUSTOMER:  7370001392 Ix 6u0C02781709 15.S03R BIO zIp POWDr Ix 600002781709 15. 5OSR BiO ZiP POHDER Sul: total 31 . (0 Tota/ Sales Inc]  GST 31 .(0 Tolal After Adj  Irc, 7 GST 31.00 CASH 50.00 Item Count 2 Amt 19.00 Invoice Ho: 20180309 10080010555 GST  Sumary Anount Tax SR & 6x 23.24 1.76 Tota] 291,24 1.76 09/03/2018 18:54 1008 001 0010555 0305101  HAL INA AEON BAHOAR  PUCHONG TEL |-3ou-80-AEOn (2366) THANK  Yuu FOR  YOUR  PATRONAGE PLEASE COHE  AGAIN Changje",
+      "store_name": {
+        "value": "AEON CO, (M) BHD (126928-H)",
+        "confidence": 0.51
+      },
+      "date": {
+        "value": "09/03/2018",
+        "confidence": 0.855
+      },
+      "items": [
+        {
+          "name": "SR & 6x 23.24",
+          "price": "1.76",
+          "confidence": 0.823
+        }
+      ],
+      "total_amount": {
+        "value": "31.00",
+        "confidence": 0.824
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.662
+    },
+    {
+      "filename": "X51005757243.jpg",
+      "processed_at": "2026-04-26T02:29:47.912008",
+      "ocr_engine": "easyocr",
+      "raw_text": "31803080 POPULAR Book Co . (m) SDN BHD (Co. No. 113825-|' ) (GST Ree Na. 00/492992000) Ac 8, Jalan I/1[8B, Desa Tun Razak 5600o Kua |a '!mpur , Wa laysi [0] MALL Te| 03-80709 [88 1 80757830 11/03/18 18:30 Slip No. 9060293576 #an i Trans : 250504 Descripl ion hmoum l [Yc)(UMERt'   ILOI: 44 9[@-Tra Spc [.15 5.7\" Total RM Inc]. of GST 5.75 Cash -50. 00 CHANGE 44.25 [tem Count 5 GST\" Summery Aicourl (RM ) Tax (RM ) T\" @ 6% 5.42 0.33 Total Savings 0_ 00 BE 4 POPULAR CARD HEMBER AND EN JOY SPECIAL DISCOUNTS TILANk Y(u. PLMSE cOF AGAIN; WwW: popij coi. my Buy Chinese books onlinc Www. popularon] ine. cOm. my Iar.",
+      "store_name": {
+        "value": "POPULAR",
+        "confidence": 0.748
+      },
+      "date": {
+        "value": "11/03/18",
+        "confidence": 0.972
+      },
+      "items": [],
+      "total_amount": {
+        "value": "5.75",
+        "confidence": 0.964
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.901
+    },
+    {
+      "filename": "X51005757248.jpg",
+      "processed_at": "2026-04-26T02:29:56.447064",
+      "ocr_engine": "easyocr",
+      "raw_text": "Sik0zull AEON co . (N) Bho' ( 128926-H) ZRD FLR, AFQw TAMAN M4LURI SC Jla JEWAKA , TAHAN HALURT CHERAS , 55100 KUALA   Lumpur GST   ID 0920 173941688 SHOPPING;  HHOLRS SN- THU; 1OQO HIRS 2200 HIRS FRi-S4T : 1OQO HRS 2300 HRS Ix U1gQ01288854 0 ,22uSR FLAST [CS BAG Ix Q0on 76 16775 13,946 #S HjO) HaF Ix C700qo616775 14,817R WC Hjd H&F I^ 090o0 2616775 13.532R HC W/O) HeF Sub-total 42.48 iatal Sales   inc| GST 42.48 Rritnidirg id) 0.02 Iotal After Adj Inc| GST 42.50 CASH 50,0Q Itam Cjurit 4 Charge Amt 7,56 Invoice Io: 2013031210050210139 GST  Stmaary 4m2urt Tax S @ 67 0.19 (.8i ZR @ Ox 42..28 0.00 Tota] 42.47 0.01 12/03/2ile  13:07 1008 (01 Q010133 0304662  HEHADAS A/L 84LOO AEOM BANDAR  FUcIGNG Ftl 1-00-80-AEOK (2386) THAMK   YOU FIX  YOUR  PA FRUNAGe PL FAS   COHE   AGAIN WHHHHA",
+      "store_name": {
+        "value": "CHERAS , 55100 KUALA   Lumpur",
+        "confidence": 0.576
+      },
+      "date": {
+        "value": "1-00-80",
+        "confidence": 0.563
+      },
+      "items": [
+        {
+          "name": "Rritnidirg id)",
+          "price": "0.02",
+          "confidence": 0.552
+        },
+        {
+          "name": "ZR @ Ox 42..28",
+          "price": "0.00",
+          "confidence": 0.675
+        },
+        {
+          "name": "Tota] 42.47",
+          "price": "0.01",
+          "confidence": 0.91
+        }
+      ],
+      "total_amount": {
+        "value": "42.48",
+        "confidence": 0.947
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date",
+        "low_confidence_currency",
+        "low_confidence_item_0",
+        "low_confidence_item_1"
+      ],
+      "overall_confidence": 0.646
+    },
+    {
+      "filename": "X51005757273.jpg",
+      "processed_at": "2026-04-26T02:30:04.573597",
+      "ocr_engine": "easyocr",
+      "raw_text": "3/803033 MR . 0.I.Y, (KuCHAi) SN BHD (CO :750441-H) LoT 1851-4 & 1851-B JaLAN KPB 6 , Kahasan PERINDUSTRIAN BALAKONG 43300   SERI KEHBANGAN _ SELANGOR (GST Id No :000473792512) (STRAND MALL KOTA DAMANSARA ) TAX InVOICE PYEORAIN CLOG FREE CLDRO?2 1OOOML #S NAO5 12 95562680002 10 3 X 15,00 45 , 00 Item(s) 1 dtyls) 3 TOTAL InCL _ GST@6% RM 45.00 CARD RM 45 , 00 GST  Summary Amt (RM) Tax( RH ) GST S@8X 42 . 45 2 ,55 +- 12-03- 18 14:37 SHO2 BO 1 1 T1 ROOO 183898 OPERATOR STMT AZMIZAN EXCHANGE ARE ALLOHED WITHIN ( DAYS HITH RECEIPT _ STRICTLY nO CASH REFUND_ Reg",
+      "store_name": {
+        "value": "MR .",
+        "confidence": 0.67
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [],
+      "total_amount": {
+        "value": "45.00",
+        "confidence": 0.985
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.669
+    },
+    {
+      "filename": "X51005757282.jpg",
+      "processed_at": "2026-04-26T02:30:11.910863",
+      "ocr_engine": "easyocr",
+      "raw_text": "3i803037 2E22k TSH ROWER HARDWARE TRADING 002458685-T 13-1, Jalan PJU 5/10, Dataran Sunway; Kota Damansara, 47810,Petallng Jaya, Selangor Tel;012-373 2096 TAX INVOICE GST No: 000460664832 Olce No 01-144366 Je 12/09/2017 4.42:33 PM Description Oty_ Price Amount 308# DRAWER 6,00 6.00 SRF JOCK C 2 HLsoO / 1L502 #AXON GARDEN 18.00 18.00 SR* TAP 1p2X3/4 FX- '1O5B JOCAL SEAL WHITE 0.50 0.50 SR+ TAPE Sub Total: 0.50 Rynd Ant: 0QQ NET TOTAL : 24.50 Cash Received 50.00 Change 25.50 SST Summan__Amo4ntRM) _ TaxRM SR-6.00% 23.11 1.39 ####Thank You.*#tt Please Come Again; Puelrozk Reg",
+      "store_name": {
+        "value": "TSH ROWER HARDWARE",
+        "confidence": 0.584
+      },
+      "date": {
+        "value": "12/09/2017",
+        "confidence": 0.693
+      },
+      "items": [
+        {
+          "name": "23.11 SR-6.00%",
+          "price": "1.39",
+          "confidence": 0.839
+        }
+      ],
+      "total_amount": {
+        "value": "0.50",
+        "confidence": 0.987
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.681
+    },
+    {
+      "filename": "X51005757286.jpg",
+      "processed_at": "2026-04-26T02:30:20.670152",
+      "ocr_engine": "easyocr",
+      "raw_text": "31803039 {Sh POWER HARDWARE TRADING 002458685.T 13-1, Jalan PJU 5/10, Datarari Sunway, Kota Damansara, 47810,Petaling Jaya, Selangor Tel:012-373 2096 TAX INVOICE GST No: 000460664832 Invoice No 01-145995 Date 10/10/2017 4.22:12 PM Descuption Price Amount 1 MAJESTA HSS 2 4,00 8,u0\" SRT JOBBER DRILLS 3.SMM Sub Total: 8.00 Round Amt: 0.QQ NET TOTAL 8.00 Cash Received 8.00 GSI Summary Amount(RM)_ Tax(RM) SR-6.00% 7.55 0.45 4#1 'Thank You: 44+ Please Come Again. Reg Qty_",
+      "store_name": {
+        "value": "TRADING",
+        "confidence": 0.787
+      },
+      "date": {
+        "value": "10/10/2017",
+        "confidence": 0.652
+      },
+      "items": [
+        {
+          "name": "SR-6.00% 7.55",
+          "price": "0.45",
+          "confidence": 0.93
+        }
+      ],
+      "total_amount": {
+        "value": "8.00",
+        "confidence": 0.987
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.855
+    },
+    {
+      "filename": "X51005757290.jpg",
+      "processed_at": "2026-04-26T02:30:27.247569",
+      "ocr_engine": "easyocr",
+      "raw_text": "31803040 MR _ D . .Y. (m) SDN BHD (CO.REG :86067 1-D) LoT 1851-4 & 1851-B JALAN KPB 6 KAHASAN PERINDUSTRIAN BALAKONG 43300  SERI KEMBANGAN_ SELANGOR (GST Id No 000306020352 ) (IOI PUCHONG ) ~Tax INVOICE - STUDENT SOCKS 3PCS BK #S JH6 1 4/200 9034915 1 X 9,50 9,50 BELT 5202-3#*VS #S Q131 12/480 9034870 1 X 22 . 90 22 , 90 PVC HAN PPER 969 (BK ) #S 1A36 9555590500184 1 X 10,50 10 , 50 Item(s) 3 Qty(s) 3 Tota] Inc] . GSTe6% RH 42 .90 CASH RH 50 . 00 CHANGE RM 7.10 GST @6% included in tota/ RM 2 ,43 # ~tt 17-03-18 14;49 SHO 1 2j86 T1 ROOO 1 10133 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOHED WITHIN DAY WITH RECEIPT _ STRICTLY nO Cash REFUND ,",
+      "store_name": {
+        "value": "31803040",
+        "confidence": 0.782
+      },
+      "date": {
+        "value": "17-03-18",
+        "confidence": 0.835
+      },
+      "items": [
+        {
+          "name": "9034915 1 X 9,50",
+          "price": "9.50",
+          "confidence": 0.95
+        }
+      ],
+      "total_amount": {
+        "value": "7.10",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.787
+    },
+    {
+      "filename": "X51005757292.jpg",
+      "processed_at": "2026-04-26T02:30:34.940485",
+      "ocr_engine": "easyocr",
+      "raw_text": "3i80304/ MR _ 0.1.Y . (M) SDn BHD (CO,REG :86067 1-0) LOT   1851-4 & 1851-8_ JaLAN KPB 6, KahaSAN PERINDUSTRIAN BALAKONG 43300  SERI  KEMBANGAH SELANGOR (GST Id No :000306i020352 ) (IOi PUCHONG) ~Tax INVQICE- PP WATER FILTER CARTRIOGE INdOOR 1S #S HA38 100 2 X 3,30 6.60 9690059 Qty(s) 2 Item(s) Tota Inc] GST@6% RH 6.60 RM 50,00 CASK RM 4*.40 CHANGE GST #6% included in tota] RM 0.37 $ *-- 18-03-18 42:09_SHOT 2J86 T3 Ru00060580 OPERATOR TRAINEE CASHIER EXCHANGE  ARE_ALLOWED_WiThin DAy WIth RECEIPT STRICTLY nQ cASH REFUND ,",
+      "store_name": {
+        "value": "MR _",
+        "confidence": 0.612
+      },
+      "date": {
+        "value": "18-03-18",
+        "confidence": 0.641
+      },
+      "items": [],
+      "total_amount": {
+        "value": "6.60",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date",
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.656
+    },
+    {
+      "filename": "X51005757294.jpg",
+      "processed_at": "2026-04-26T02:30:41.333890",
+      "ocr_engine": "easyocr",
+      "raw_text": "3/18030c2 HR . D.1,Y. (M) SDM BHD (CO.REG 86067 1 -D ) LOt 185 1-A & 1851-8 , JaLAN KPB 6 Kahasan PERINOUSTRIAN BALAKONG , 43300 SERI KEMBANGAH , SELANGOR (GST ID No :000306020352 ) (IOI PUCHONG) -TaX INVOICE CARBON FIBER CARTRIDGE C1O-981 10' #% cC22-52-62 25 9063785 2 X 5 . 30 10,e0 Item(s) Qty(s) 2 Tota] Inc] _ GST@6X RM 1C.[t CASH RH 26, \u20acu CHANGE RM 9.40 GST @6%  included in tota) RH 0.66 +- 18-03-18 15;12 SHO 1 2J86 T3 R00006o727 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED within ( DAY hITH RECEIPT _ STRICTLY NQ CasH REFUND ,",
+      "store_name": {
+        "value": "(CO.REG",
+        "confidence": 0.634
+      },
+      "date": {
+        "value": "18-03-18",
+        "confidence": 0.975
+      },
+      "items": [],
+      "total_amount": {
+        "value": "9.40",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.745
+    },
+    {
+      "filename": "X51005757304.jpg",
+      "processed_at": "2026-04-26T02:30:47.343679",
+      "ocr_engine": "easyocr",
+      "raw_text": "#000002 E4teu (M) Sdn Bhd CONPANY \"N0(814198-X)' DAISo  JAPAN_ IOI MALL PHONE 03-80763806 GST  ID 001389649920 WELCOHE Tax INVOICE 20/03/2018.7 Q7pn RGPT NO , 18252 REG:OT`CSH:oooooo08 4997642045475 Plastic_spoons &pcs 5,90 X 3 17.70 SR 4997642045482 Plastic_forks &pcs 5,90 X 3 17,70 SR SUB TOTAL (iNCL , GST) 35.40 TOTAL PH 35,40 CASH 50 , 00 chhlee 14.60 4 ITEHS SQL 6 Tax Code Amt(RM) GST (RH) GST   (6.000) 33, 40 .2,00 \"THANK   YOU\"\" ~PLEASE COME AGAIN 5120204S",
+      "store_name": {
+        "value": "001389649920",
+        "confidence": 0.78
+      },
+      "date": {
+        "value": "20/03/2018",
+        "confidence": 0.454
+      },
+      "items": [
+        {
+          "name": "PH",
+          "price": "35.40",
+          "confidence": 0.602
+        }
+      ],
+      "total_amount": {
+        "value": "35.40",
+        "confidence": 0.968
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_date",
+        "low_confidence_item_0"
+      ],
+      "overall_confidence": 0.745
+    },
+    {
+      "filename": "X51005757308.jpg",
+      "processed_at": "2026-04-26T02:30:54.526769",
+      "ocr_engine": "easyocr",
+      "raw_text": "3l80304f MR _ D,H.Y, (M) SDN BHD (CO,REG 86067 1-D) ` LOT 1851-A & 1851-B, JALAN KPB 6 Kahasan PERINDUSTRIAN BaLAKONG_ 43300 SERI KEMBANGAN _ SELANGOR ( GST Id No 000306020352 ) (IOI PUCHONG ) TaX INVOICE - CloTh TAPE 46MM#SM (RED) #S RC22-32 36 9084 134 X 1.90 1.90 BOPP TAPE 48HM+ |OOM CLEAR #S GB12-21-22 36 6935818350846 X 3,90 3 , 90 CLoTh TAPE 46MM+SM (GREEN) #S HDo3 36 9084 135 1 X 1.90 1,90 DBL SIDE CLEAR ACRYiIC TAPE Vst1O6C #S Ha10 8/64 9554100363103 1 X 11,90 11.90 'S TAPE 1,8+156 #S MC42 88 9080456 1 X 1.70 1.70 PLASTIC BAGS #S 99999 1 X 0,20 0.20 Item(s) 6 Qty(s) 6 Total Inc] . GST6% RH 21.50 CASH RH 50 , 00 CHANGE RM 28.50 GST  @68 inc luded in total RH 1.22 T- Cst 21-03-18 12:27 SHO 1 2J86 T2 Rooo1 10882 OPERATOR TRAINEE  CASHIER EXCHANGE ARE ALLOHED hithiN 7 Day HITH RECEIPT STRICTLY nO CASH REFUND ,",
+      "store_name": {
+        "value": "MR _",
+        "confidence": 0.521
+      },
+      "date": {
+        "value": "21-03-18",
+        "confidence": 0.975
+      },
+      "items": [
+        {
+          "name": "99999 1 X 0.20",
+          "price": "0.20",
+          "confidence": 0.946
+        }
+      ],
+      "total_amount": {
+        "value": "1.22",
+        "confidence": 0.98
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name"
+      ],
+      "overall_confidence": 0.868
+    },
+    {
+      "filename": "X51005757323.jpg",
+      "processed_at": "2026-04-26T02:31:02.771581",
+      "ocr_engine": "easyocr",
+      "raw_text": "2180300 HR _ D,.Y. (M) SDN BHD (C0.REG :880671-D) LOT 1851-4 8 1851-B _ JALAM KPB 6 Kamasan PERINDUSTRIAN BALAKONG 43300 SERI KEHBANGAN _ SELANGOR (GST ID No 000306020352 ) (ioI PUChonG) ~TaX INVOICE - PILLAR SINK TAP 87601 #S 0zo5 5/60 9074824 1 X 19,90 19,90 NASCO SEAL TAPE NST #S HA33 100/1000 918050 1 X 0 . 80 0 , 80 S/S COLANDER RH-008# 24, 5CM #S AD41/2 5/100 9067474 1 X 7.30 7.30 Item(s) 3 aty(s) 3 Tota] Incl GST@6% RM 28 , 00 CASH RM 40 . 00 CHANGE RM 12.00 GST @6%  included in tota] RH 1.58 T- 26-03-18 15:25 SHO 1 2j86 Ti ROOO 1 12587 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED HITHIN 7 DAy WITH RECEIPT STRICTLY NO CASH REFUND _",
+      "store_name": {
+        "value": "2180300",
+        "confidence": 0.718
+      },
+      "date": {
+        "value": "26-03-18",
+        "confidence": 0.975
+      },
+      "items": [
+        {
+          "name": "9074824 1 X 19,90",
+          "price": "19.90",
+          "confidence": 0.937
+        }
+      ],
+      "total_amount": {
+        "value": "12.00",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.8
+    },
+    {
+      "filename": "X51005757324.jpg",
+      "processed_at": "2026-04-26T02:31:09.246571",
+      "ocr_engine": "easyocr",
+      "raw_text": "2180207 HR _ D.I.Y. (H) SDN  BHD (CO .REG 86067 1-D) LOT 1851-A & 185 1-B , Jalan KPB 6 KAHASAN PERINDUSTRIAN BALAKONG _ 43300 SERI KEMBANGAN _ SELANGOR (GST Id No 000306020352 ) (IOi PUChOnG) -TAX INVOICE - TRAC @RY IRON TR-231IR ~1200H ( SR) N #S WA10 12 9555493002853 26 , 90 26 . 90 SInGLE BFOSHEET SET 90+188+20CH #S JD52-63 20 9034713 X 23.90 23 . 90 Item(s) 2 Qty(s) 2 Tota1 Inc]_ GST@6% RM 50 .80 CASH RH 51.00 CHANGE RK 0.20 GST  @6%  included in total RM 2 , 88 T-- 25-03-18 18;47 SHO 1 2.86 T1 ROoo112415 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOHED WITHIn ( Day WITH RECEIPT_ STRICTLY NO CASH REFUND ,",
+      "store_name": {
+        "value": "2180207",
+        "confidence": 0.577
+      },
+      "date": {
+        "value": "25-03-18",
+        "confidence": 0.776
+      },
+      "items": [],
+      "total_amount": {
+        "value": "2.86",
+        "confidence": 0.603
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.719
+    },
+    {
+      "filename": "X51005757342.jpg",
+      "processed_at": "2026-04-26T02:31:14.858459",
+      "ocr_engine": "easyocr",
+      "raw_text": "3i80304 MR _ D.I.Y. (M) SDN BHD (CO.REG 86067 1-D) LOt 1851-A & 1851-B JALAN KPB 6 , KawASAN PERINDUSTRIAN BALAKONG 43300   SERT KEMBANGAN SELANGOR (GST Id No 000306020352 ) (IOI PUCHONG ) ~TaX INVOICE - MESH SPONGE 4S #S An62-72 12/96 9064234 X 1.80 1.80 BROHN coco BRUSH 6 ' Vbn #S !Aso 20/300 9555221303658 2 X 2.10 4,20 PLASTIC BAGS #S 99999 1 X 0.20 0,20 Item(s) 3 Qty(s) : 4 Tota] Inc] _ GST@6X RH 6 ,20 CASH RM 100 , 00 CHANGE RM 93. 80 GST @6%  included in total RM 0. 35 * 23-03-18 '6 ; 43 SHO1 2J86 T1 ROoo111721 OPERATOF IRAINEE CASHIER EXCHANGE ARE ALLOHED WiTHIn ( DAY WITH RECEIPT STRICTLY nO CASH REFUND _",
+      "store_name": {
+        "value": "MR _",
+        "confidence": 0.66
+      },
+      "date": {
+        "value": "23-03-18",
+        "confidence": 0.921
+      },
+      "items": [
+        {
+          "name": "9555221303658 2 X 2.10",
+          "price": "4.20",
+          "confidence": 0.858
+        },
+        {
+          "name": "99999 1 X 0.20",
+          "price": "0.20",
+          "confidence": 0.949
+        }
+      ],
+      "total_amount": {
+        "value": "2.10",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.793
+    },
+    {
+      "filename": "X51005757346.jpg",
+      "processed_at": "2026-04-26T02:31:20.602351",
+      "ocr_engine": "easyocr",
+      "raw_text": "3180205 HR _ 0. I.Y. (M) SDN   BHD (CO.REG 85067 1-0) LOT 1851-4 & 1851-B , JALAN KPB 6 , KahASAN PERINDUSTRIAN BALAKONG 43300 SERI KEHBANGAN_ SELANGOR (GST Id No 000306020352 ) (IOI PUChOnG) ~Tax INVOICE - DOUBLE EXT BOX 10Y40/016 CBD4110 #S HA21 20 9553114461423 1 X 25 , 90 25,90 PLASTIC BAGS #S 99999 1 X 0 ,20 0.20 Item(s) 2 Qty(s) 2 Total Inc] _ GST26x RM 26 , 10 CASH RH 50 , 00 CHANGE RK 23 . 90 GST @6X included in total RM 1.48 T- 23-03-18 18:09 SHO 1 2J86 T1 ROoo111754 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOHED WITHIN DAY hITH RECEIPT_ STRICTLY NO CASH REFUND _",
+      "store_name": {
+        "value": "3180205",
+        "confidence": 0.731
+      },
+      "date": {
+        "value": "23-03-18",
+        "confidence": 0.864
+      },
+      "items": [],
+      "total_amount": {
+        "value": "1.48",
+        "confidence": 0.729
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.811
+    },
+    {
+      "filename": "X51005757349.jpg",
+      "processed_at": "2026-04-26T02:31:25.910879",
+      "ocr_engine": "easyocr",
+      "raw_text": "31802053 GOLDEN KEY MAKER (000760274-k) No 5, Jalan Kenari 2 , Bandar Puchong Jaya , 47100 Puchong Se _ TEL; 03-58919941 FAX: 03-58919941 E-Mail: gldenkeymakertgmai ].com Website: Vw. g0Idenkeymaker ,com S/ HOE Inv No CS-0014134 24 Mar-2018 03;44;22 PH INVOICE No. Desc/Code Qty Price Disc% Amount NORHAL KEY 33100 4,00 0.00 16,00 2 NORMAL KEY LONG 33101 5,00 0.00 5,00 Total 5 Sub-Tota] 21,00 Discount 0,00 Net Total 21.00 Cash Received 50 , 00 Change 29,00 GOODS SOLD ARE NOT  RETURNABLE /REFUNDABLE langor Qty",
+      "store_name": {
+        "value": "GOLDEN KEY MAKER",
+        "confidence": 0.746
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [
+        {
+          "name": "33100 4,00 0.00",
+          "price": "16.00",
+          "confidence": 0.95
+        },
+        {
+          "name": "33101 5,00 0.00",
+          "price": "5.00",
+          "confidence": 0.947
+        }
+      ],
+      "total_amount": {
+        "value": "21.00",
+        "confidence": 0.97
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_date",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.669
+    },
+    {
+      "filename": "X51005757351.jpg",
+      "processed_at": "2026-04-26T02:31:32.116902",
+      "ocr_engine": "easyocr",
+      "raw_text": "31& HR _ D.I.Y. (M) SDN BHD (CO .REG :88067 1-D) LOT 1851-A & 1851-B JaLAN KPB 6 KAHASAN PERINDUSTRIAN BALAKONG 43300  SERI KEHBANGAN _ SELANGOR (GST Id No :000306020352) (IOi PUCHONG) -TaX INVOICE MULTIPURPOSE BROON 737P W/4FT #S WA16 24 9555221300282 2 X 6 , 50 13 , 00 HOSE  PUMP C8835 | # #S KE23-33-53 12/120 9074333 1 X 1.90 1.90 Item(s) 2 Qty(s) 3 Total Inc] _ GST26% RH 14.90 CASH RM 20 ,00 CHANGE RM 5.10 GST @6%   included in total RM 0 .84 24-03-18 18 :02 SHO1 2j86 T1 Rooo112043 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED WITHIN DAY WITH RECEIPT STRICTLY NO Cash REFUND , 0z0s4",
+      "store_name": {
+        "value": "HR _",
+        "confidence": 0.771
+      },
+      "date": {
+        "value": "24-03-18",
+        "confidence": 0.847
+      },
+      "items": [],
+      "total_amount": {
+        "value": "14.90",
+        "confidence": 0.987
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.881
+    },
+    {
+      "filename": "X51005757353.jpg",
+      "processed_at": "2026-04-26T02:31:38.999211",
+      "ocr_engine": "easyocr",
+      "raw_text": "siro3ocf MR 0,I.Y. (M) SdN BHD (CO.REG :86067 1-D ) LoT 1851-A & 1851-B , JalAN KPB 6 , Kawasan PERINDUSTRIAN BALAKONG 43300   SERI KEMBANGAN SELANGOR (GST Id No ;000306020352) (IOI PUCHONG) ~TaX INVOICE - white CABLE TIE 4+200mm(8' ) #S UB52 20/250 9072317 1 X 3.90 3. 90 White CABLE TIE 5+250 #S UH32 10/150 9072318 1 X 6 , 50 6,50 HOSE  PUMP C88351 # #S KE23-33-53 12/120 907 4333 1 X 1.90 1.90 Item(s) 3 Qty(s) 3 Tota) Inc| GSTe6X RM  12. 30 CASH RM 50.00 CHANGE RM 37. 70 GST @6X included in total RH 0,70 -$ T- 24-03-18 18 ; 10 SHO1 2J86 T1 Roo0112046 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOWED WITHIN 7 Day WITH RECEIPT_ STRICTLY NO CASH REFUND ,",
+      "store_name": {
+        "value": "0,I.Y.",
+        "confidence": 0.528
+      },
+      "date": {
+        "value": "24-03-18",
+        "confidence": 0.903
+      },
+      "items": [],
+      "total_amount": {
+        "value": "0.70",
+        "confidence": 0.838
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name"
+      ],
+      "overall_confidence": 0.797
+    },
+    {
+      "filename": "X51005763940.jpg",
+      "processed_at": "2026-04-26T02:31:45.835985",
+      "ocr_engine": "easyocr",
+      "raw_text": "Hatvey Nqan Harvey Norman M'sia Paradigm Mal] Elitetrax Harketing Sdn Bhd (616227-0) Lot IF-01802, Ist Flr,Paradigm Mall, No_ Jalan SS 7/284 , Kelana Jaya, 47301 Petal ing Jaya TEL; 1300-88-5200 (HN Customer Service) GST REG . NO 000551006208 44 Original ** You were served by Salesman: CHI CHERN 6005283 CANON CART PG-47BK 2 20.00 60 . 00 S6 Total Inc] .Of GST 60 . 00 UOB  Terminal RM 60 . Oo Card No #*****r*****9014 Auth Code R13299 GST   Inclusii3: Amount (RH) Tax (RH) S6 6.00 % f 60 . 00 3.40 Date Time Br ach POS Transac 11.02.18 14:08 2007 2 24405: _ SalesmanID CashierID CashierName 803216 80 1817 NORSHAF IKA Use This Code WELCOMEZO To Enjoy RM 20 Discount Online Now Shop With Confidence at Harvey Norman. Keep Receipt as proof of Purchase _ Visit WWW.harveynorman.COM.my for more promotions ad offers_ IlIIIIIHC IHH HHHHHLHH E60002007000d20024409120180211140759",
+      "store_name": {
+        "value": "Harvey Norman M'sia Paradigm Mal]",
+        "confidence": 0.569
+      },
+      "date": {
+        "value": "11.02.18",
+        "confidence": 0.925
+      },
+      "items": [],
+      "total_amount": {
+        "value": "6.00",
+        "confidence": 0.88
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name"
+      ],
+      "overall_confidence": 0.824
+    },
+    {
+      "filename": "X51005763958.jpg",
+      "processed_at": "2026-04-26T02:31:56.373549",
+      "ocr_engine": "easyocr",
+      "raw_text": "SUPER   SEVEN C4SH & CARRY SDN BHD (590150-A_ PASARAYA EORONG SUPER SEVEN NO _ Jalan Euro I Off Jalan Bat  Tiga Sunga i Buloh Seksyen U3 Shah Alam,40150 http: / /Www.suzer/,COM , mly TEL 03-78591861 FAX 03-7859J864 GST  ID (100639090688 TaX INVOICE Customer (77853745] Mcs , ONG (HUAT CHYE TaX INVOICE NJ 152164 COUNTER 006 OFERATOR [NURUL  FATEHA 8T  MOHD-ASST   SUPERVISOR] 27-01-2018 04;32:13 PM (RM) =2 KK KACANCCORENG 300G @5. 90 95566240(1140) *10 59.00 SR QUANTItY 10 Units Total Sales (Inc] , GST C6x) RMSg,00 Rounding kdjustment RMO , 00 Net Total RMS9 , 00 Paylient Method VISA CARD GST  Summzry Sales Amt Tax Amt (RM) (RM) SR (68) 55.66 3.34 ZR (O%) 0.00 0,00 PLEASE VEFIFY YOUR RECEIPT 5 BEFORE LEGVIN; THE COUNTER , GCODS  SOL_o  ARE NOT RETURNABLE. THANK   YOU",
+      "store_name": {
+        "value": "SUPER   SEVEN C4SH & CARRY SDN BHD",
+        "confidence": 0.701
+      },
+      "date": {
+        "value": "27-01-2018",
+        "confidence": 0.895
+      },
+      "items": [],
+      "total_amount": {
+        "value": "55.66",
+        "confidence": 0.987
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.876
+    },
+    {
+      "filename": "X51005763964.jpg",
+      "processed_at": "2026-04-26T02:32:06.003786",
+      "ocr_engine": "easyocr",
+      "raw_text": "chh YONG CEN ENTERPRISE hrlr1 9 JALAN SUBANG JASA 3, 40150 SHAH ALAM; TEL: 012-9719498 #ELANGQMShrvo GST NO: 001147981824 CASH RECEIPT #: CS00668594 DATE: 08/01/2018 SALESPERSON TIME: 10.47:00 COUNTER ITEM QTY UIP AMOUNT 9555223500000 24 2.58 61.99 SR:CHAMPIGNONS MUSHROOMS 425G(2 5833X TOTAL QUANTITY 24 SUB-TOTAL 61,99 DISC 0.00 GST 3.72 TAX 0.00 ROUNDING -0.01 bF2 TOTAL 65.70 CASH 65,70 CHANGE 0.00 GOODS SQLD ARE NOT RETURNABLE, THANK YOU.",
+      "store_name": {
+        "value": "YONG CEN ENTERPRISE",
+        "confidence": 0.731
+      },
+      "date": {
+        "value": "08/01/2018",
+        "confidence": 0.744
+      },
+      "items": [
+        {
+          "name": "24 2.58",
+          "price": "61.99",
+          "confidence": 0.77
+        },
+        {
+          "name": "DISC",
+          "price": "0.00",
+          "confidence": 0.942
+        }
+      ],
+      "total_amount": {
+        "value": "61.99",
+        "confidence": 0.987
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.746
+    },
+    {
+      "filename": "X51005763999.jpg",
+      "processed_at": "2026-04-26T02:32:12.139703",
+      "ocr_engine": "easyocr",
+      "raw_text": "2 Segi Cash & Carry Sdn, Bhd/317041-W Pt17920 Sek UQ Shah Alaw GST No 4 001951645696 Invoice No 62513 Date 06 Jan 2018 O5:21pn Counter 02 MiGHTY MARK  DISKMASH MIL 2 % 9.90 19.80 $ CRQWN '5 POWER PWD DETERGENT  SKG 1 x 11.50 (Disc: 1.60) 9,90 $ udaNG XL 3,18 * 39,90 126,38 2 udang XL 3.15 * 39 , 90 125.69 2 WIN CENDOL (GROSS 1.SKG, NET 1KD) 2 % 4,51 9,02 $ IkAN BILIS C TIFBANG 1.36 % 55,00 74,80 2 AJINOHOTO 2oXikG 1 X 210.00 210.00 $5 SEGI/LEMBU Emas QIL 17K6+ - 1 X 69 . 90 69.90 2 ABC TEPUNG UBI IOxIKG 1 * 28 . @o 28.0 2 No of itens: 11 Subtotal Incl. GST #RM 673,99 Rounding:RH 0.01 Total Incl_ GST:RM 674 . DQ VISA XxXxxxrXxrXx7118: 674 . Q0 Change:RM 0 , Qo Savings:RH 1.60 Missed Point Today: 659 Served by KALAVATHI A/P 4Avog72*71 GST Summary %tttx GST Code Amount(RM) Tax(RH) S @6.07 234.63 14 . 09 2 @0.0K 425.27 0 , @0 Ref No: 00600666580062513 Goods Sold Are Not Returnable. Tp Reg",
+      "store_name": {
+        "value": "Carry Sdn, Bhd/317041-W",
+        "confidence": 0.613
+      },
+      "date": {
+        "value": "06 Jan 2018",
+        "confidence": 0.559
+      },
+      "items": [
+        {
+          "name": "Savings:RH",
+          "price": "1.60",
+          "confidence": 0.919
+        }
+      ],
+      "total_amount": {
+        "value": "673.99",
+        "confidence": 0.809
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.764
+    },
+    {
+      "filename": "X51005764031.jpg",
+      "processed_at": "2026-04-26T02:32:22.666178",
+      "ocr_engine": "easyocr",
+      "raw_text": "SUPER SEVEN CSH & CARRY SON 3HD (590150-A) FASARAYA BIFGNG SUPER SEVEN NO _ 1 Jalan Euro 1 Off Jalan Batu Tiga Sunga j Buioh Seksyen U3 Shah Alam,40150 http:/ /ww. super7 ,COm.my TEL 03-78590861 Fax 03-78590864 GST  ID 000639090688 TAX INVOICE Custoiner [77853745] Mrs _ ONG GUAt CHYE TAX INVUICE NO 192636 COUNTER 002 UPERATOR : (SYED' AHMAD FALLAH B1-CUSTOMER SERVICE CLERK ] 01-62-2018 09;52:50 AM (RM) 7t LADy CHOICE 3c TARTAR SAUC @35.50) 9556024001383 *1 35.50 SR SAYUR RMI . O0 @1 .00 FM42OOOOOOO *2 2.00 ZR SAYUR RMI,00 @1.00 FM4ZOOOCuog *3 3,00 ZR KOBIS MERAH @1,60 42129 1 60 ZR CUANTTY 7 Units Tota/ Sales ( Inc] . GST @63) RHAZ . 10 Rounding Adjustment RMO . 00 Net  Tota] R142 . 10 Paylent Method 4x-V VISA CARD GST  Summary Sales Amt Tax Amt (RM= (RM) SR (6x` 33. 49 2.01~ ZR (0%) 6.60 0,00 PLEASE VERIFY YOUR RECEIPT BEFORE LEAvING THE COUNT ER, GooDs  SOLD ARE NOT   RETURNABLE . THANK   YOU",
+      "store_name": {
+        "value": "NO _",
+        "confidence": 0.617
+      },
+      "date": {
+        "value": "01-62-2018",
+        "confidence": 0.819
+      },
+      "items": [],
+      "total_amount": {
+        "value": "35.50",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.702
+    },
+    {
+      "filename": "X51005764154.jpg",
+      "processed_at": "2026-04-26T02:32:33.513828",
+      "ocr_engine": "easyocr",
+      "raw_text": "Dis PANA JAYA ENTEAPRI SE NO , 10-G, GAQUND FLoor_ JALAN DINAA 0 03/0 TAMAN SLIBANG PEADANA , SEK U3 , 40150 SHAH ALAM. SELANGOFI TEL:03-7847 2376 FAX- 03-7847 2378 (GST Reg_ No 0nz069430464) Tax Irivoi CG INV No 537422 Qty(s) ' 12 Date 25-01-2018 I8* 10:28 Cashier CASHIERZ Cescr IptTon Qly U price Total TAX CAYSTAL CATERING FOIL ISKG 4S0X18' 35.00 35.00 SR EC 7 PP PLATE (SOPCS) 10 X 6.25 62.50 SR EC 9 PP PLATE( SOOPCS)CTN 1O8 . 00 108 O0 SR Total (Exc luding GST ) 193 &7 GST payab| 0 6%) 11.63 Total (Inclusive of GST ) 205 5o TOTAL: 205,.50 CASH 205- 5 205,50 GST Summar y Amount (AM) Tax(AM) SR (@ 67 _ 193 87 11,63 Thank Yau Please Coma Agaln Goods Spld Are Not Ref undable (w ) Yo sl& 6 4",
+      "store_name": {
+        "value": "PANA",
+        "confidence": 0.787
+      },
+      "date": {
+        "value": "25-01-2018",
+        "confidence": 0.885
+      },
+      "items": [
+        {
+          "name": "SR 35.00",
+          "price": "35.00",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "35.00",
+        "confidence": 0.974
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.743
+    },
+    {
+      "filename": "X51005764161.jpg",
+      "processed_at": "2026-04-26T02:32:45.046848",
+      "ocr_engine": "easyocr",
+      "raw_text": "cn)\" xt'lu - 99 SPEEI MarT 5/8 {519537-X) LOT P,T, 2811, JALAN ARGSA; TAmAN BEPKELEY 41150 KlanG, SELANGGR 1313-SWbaNG  BESTARI GST ID, No 000181747712 INVOICE HO 18291/102/T0380 06:(4FN 569004 28-0-18 5593 LEA PERRINS S0S LORC RrS8,89 ei1 X Rm 8.99 Total Sales {Inclusive GST) RN S8, 39 Rpunding Adjustment RM 01 Rcunding Rm 98 , 90 CREDIT Pm 98 . 90 CHAHCE Rm 0f 6ST Suznary Acourt (Rh) Tax(RH) 87 93.28 5,61 98.70 Thank You. Please come Keep +7e invoice {or applicabi 0 returns again",
+      "store_name": {
+        "value": "TAmAN BEPKELEY",
+        "confidence": 0.554
+      },
+      "date": {
+        "value": "28-0-18",
+        "confidence": 0.586
+      },
+      "items": [
+        {
+          "name": "ei1 X Rm",
+          "price": "8.99",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "93.28",
+        "confidence": 0.861
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.738
+    },
+    {
+      "filename": "X51005806678.jpg",
+      "processed_at": "2026-04-26T02:32:51.486796",
+      "ocr_engine": "easyocr",
+      "raw_text": "KAISON  FURNISHING  SON  BHD L4-17 (B) _ Level 4, UP2-01 ,_ Melanati Mal1, 355 _ Jalan Bandar Melarat i , Pusat Bandar Melalati_ 53100 Kuala Lumpur _ Co . Reg No, (761834-D; GST Reg No. 001813975040 Tel: 03 41019864 Slip OOOOMLW-P3000024348 Staff: 1799 Siti Izza Trans:  1603029175 Date: 29-01-18 20:38 Descr ipt ion Amount (RM) Barcode: 10182079 FLOHER  BUNCH ROSE 122 pcS @ 18,90 2,205,80 SR Item No. 30001640 FLOHER   BUNCH CRYST 240 pcs @ 13.90 3,336.U0; SR Item No. : 30001635 FLOHER   BUNCH 7HD 130 pcS 16,90 2,197. 00 3 Tota| RM 7,838, 80 CASH (HVR) 7,840.00 Change 1.20 GSTR Amt (RM) GST (RM) Tota] (RM) SR 6 7,395.09 443,71 7,838. 80 GOODS SOLD ARE NON-CASH REFUNDABLE . EXCHANGE OF   GOODS  WITHIN 14 DAYS ACCOMPANIED BY ORIGINAL RECEIPT ,",
+      "store_name": {
+        "value": "Level 4,",
+        "confidence": 0.747
+      },
+      "date": {
+        "value": "29-01-18",
+        "confidence": 0.944
+      },
+      "items": [
+        {
+          "name": "2,205,80 SR 122 pcS @",
+          "price": "18.90",
+          "confidence": 0.692
+        },
+        {
+          "name": "3,336.U0; SR 240 pcs @",
+          "price": "13.90",
+          "confidence": 0.561
+        }
+      ],
+      "total_amount": {
+        "value": "840.00",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_total_amount",
+        "low_confidence_item_0",
+        "low_confidence_item_1"
+      ],
+      "overall_confidence": 0.719
+    },
+    {
+      "filename": "X51005806679.jpg",
+      "processed_at": "2026-04-26T02:33:10.880164",
+      "ocr_engine": "easyocr",
+      "raw_text": "LEE WAK FLorIST SDN BHD (521273-W) 129, JALAN TUNH.SLEE, 50000 KUALA !UMPUR: Teil 03-20782322 012-5383466 FaX 03- SALES@LEEWAHFLORIST.COM GST ID : 0010114990C8 IAXIVQIGE Doc No. CS(IO183546 Date: 92/02/2018 Cashler USEER Tme 21.41.00 Salasperson Ret:: (GST) (GBT) Itett SIPrice SiPrice Araount Titx 1015 2 1200 7: 501 SR PEACOCK YELlOW 34,j 30 04 144.16 SR 1012 STATICE FULL IMP 1145 S8.Qu 81 48 01.48 SR CONCORDO 2H4 1037 2 6.C0 6.36 1272 SR SNCJWV Wfiite LEAF 3 %0 3.71 3.71 SR 1050 FLORIDA 8EAUTY 9,00 5.54 38,16 SR 1097 PALM LEAF L 4.50 4.77 14.31 SR 1038 PALM LEAF M 2200 23.32 24,32 SR 1006 ROSE INDIA SUPERICR 12.02 12.72 50.28 SR 2748 SUCCULENT L Tfolal Qly: 22 374.18 Total Salas ,Excluding GST) 353.00 Discount 0.00 Total GST 21,18 Rounding 0.02 Tolal Salee (Inclusive of GST) 374.20 CASH 400.00 Change 25.80 GST SUMMARY Tax Code Amvl (RI} Tax(RM) SR 353,0C; 21.18 Total 353.00 21.18 GOODS SOLD ARE NOT RETURAABLE, THANK YOU: Lily",
+      "store_name": {
+        "value": "129, JALAN TUNH.SLEE,",
+        "confidence": 0.718
+      },
+      "date": {
+        "value": "92/02/2018",
+        "confidence": 0.891
+      },
+      "items": [],
+      "total_amount": {
+        "value": "353.00",
+        "confidence": 0.949
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.869
+    },
+    {
+      "filename": "X51005806685.jpg",
+      "processed_at": "2026-04-26T02:33:28.750385",
+      "ocr_engine": "easyocr",
+      "raw_text": "ADVANCO COMPANY Company Reg: No 725186-V NO 183, Jalan Wangsa Delima 12, Wangsa Link, Wangsa Maju; 53300 Kuala Lumpur 03-41318972 GST Reg : 001658445824 TAX INVQICE CB# 389772 17/01020(8 8.08.53 M# M1 0 Cashier CIOOO - Qty Descripion Price Totai CANON PG-47BK E400 BLACK FINE ( SR 27736 29.00 29,00 Type: Total 29.00 Roundirg Adj Total Inclusive GST: 29.00 CASH 50,80 Change 21.00 GSL Summary Coue Net Amt GST Total SR' 6% 27,36 1.64 29.00 Total 27.36 1.64 29.00 Thank you & Please comne again Goods soid are not returable for refund or exchange II",
+      "store_name": {
+        "value": "ADVANCO COMPANY",
+        "confidence": 0.778
+      },
+      "date": {
+        "value": "8.08.53",
+        "confidence": 0.72
+      },
+      "items": [
+        {
+          "name": "27736 29.00",
+          "price": "29.00",
+          "confidence": 0.95
+        }
+      ],
+      "total_amount": {
+        "value": "29.00",
+        "confidence": 0.974
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.744
+    },
+    {
+      "filename": "X51005806692.jpg",
+      "processed_at": "2026-04-26T02:33:35.983704",
+      "ocr_engine": "easyocr",
+      "raw_text": "Tax Invoice GREATZONE HOUSEHOLD CENTRE SDN BHD (801049-U) 60 & 62. Jalan 86000,KLUANG GST 001833082880 Document No. KLGO201130227 Date 18/02/2018 06.08;59 PM Debtor Member Terminal KLGO2O1 Cashier KLG2 DESC U; PRICE Disc AMOUNT TAX QTY RM RM CODE ZOOSHEET COMPACT SERVIETTES (NTE) 1 PC 3,30 O.00 3.30 SR 1.5\" RUBBER BAND 1 ZO0G 3.60 0.00 3.60 SR PP 3X5 04 1 Z00G 2.50 0.00 2.50 SR 18MMXIOY OPP TAPE 1 PC 1.60 0.00 1.60 SR 911 TAPE DISPENSER 1 PC 8.60 0.00 8.60 SR PSI-890 PENSONIC DRY IRON WITH SPRAY 1 PC 49.90 O.00 49.90 SR AP-17 APRON PLAIN CLOTH 20 PC 10.90 0.00 218.00 SR TALI UKURAN 1 PC 1,00 0,00 1,00 SR CC-1OO 1OOPC CITE CANDLE 1 PC 22.90 0.00 22.90 SR F15o2 SCISSOR O8C (CH) (TLC) 6 PC 6.00 0.00 36,00 SR 2KG HC KITCHEN SCALE 1 PC 19.90 0.00 19.90 SR Sub Total (Exclusive 346 51 GST 6% Z0_ Service O.00 Rounding Adjustment 0.Q0 Rounded Total (RM): 367,30. Credlt Card 367.30 GST Summary Amount(RM) Tax(RM) SR 6% 346.51 20.79 Ciku, Reg:: GST) Charge",
+      "store_name": {
+        "value": "GREATZONE HOUSEHOLD CENTRE SDN BHD",
+        "confidence": 0.784
+      },
+      "date": {
+        "value": "18/02/2018",
+        "confidence": 0.746
+      },
+      "items": [
+        {
+          "name": "SR 6% 346.51",
+          "price": "20.79",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "367.30",
+        "confidence": 0.822
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [],
+      "overall_confidence": 0.808
+    },
+    {
+      "filename": "X51005806695.jpg",
+      "processed_at": "2026-04-26T02:33:50.097672",
+      "ocr_engine": "easyocr",
+      "raw_text": "JUWITA WEDDINGS (366310-U) SAYANG YOU STATION SDN BHD Lot618 & 619 JLN 8/27A WANGSA MAJU (AEON BIG SHOPPING CENTER) 53300 KUALA LUMPUR Tel 0341434733 / Fax 0341434722 GST ID 000689004544 TAXINVQICE Invoice No: RCP180228-0101-77106 Receipt Date : 28-Feb-2018 1637.04 Cashier Juwita Weddings Item Descrlption Qty RM 1840310083 IPCS 2 4.10 SR MEASUREMENTTAPE 714WH Sub Total TOTAL 470 CASH 4.10 BALANCE O.Q0 INC. GST 6.00% 0 23 GST Summary Amount (RM) Tax (RM) SR 3.87 0.23 All Payments must be made only in the form of a credit card or cash payable to Juwta Weddings Sdn Bhd Exchange are allowed wilhin 3 with receipt  Strictly no cash refund Thank you; day\"",
+      "store_name": {
+        "value": "JUWITA WEDDINGS (366310-U)",
+        "confidence": 0.651
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [
+        {
+          "name": "Receipt Date : 28-Feb-2018",
+          "price": "1637.04",
+          "confidence": 0.747
+        },
+        {
+          "name": "0.23 SR",
+          "price": "3.87",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "4.10",
+        "confidence": 0.928
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.686
+    },
+    {
+      "filename": "X51005806696.jpg",
+      "processed_at": "2026-04-26T02:33:58.887439",
+      "ocr_engine": "easyocr",
+      "raw_text": "IMAGE PRINTEC (M) SDN BHD No: GST: 00t: 1241862144 No Jalan Delima 11, 53300 Kuala T:+(603) _ 9822 4141 9722 IAX 61967 23/02923187.44.16 Qty 2 COLOR COPY A4 2 PHOTOCOPY _ 1.00 2.00 SR 2 LAMINATE A4 0.10 0.20 SR A4 Type: 3 250 5.00 SR SubTotal: GST 6% 7.20_ 043 NET TOTAL: 0.02 CASH 7.65 10.00 2,35 yol: come again. Reg 416123-U 12A-G, Wangsa Dwwangsa Wangsa Maju; Lumpur: 4141 Fx+{603) IVOICE CB# Salesperson - Desc Price Total Rounding Adj Change: Thank Please",
+      "store_name": {
+        "value": "IMAGE PRINTEC (M) SDN BHD",
+        "confidence": 0.642
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [],
+      "total_amount": {
+        "value": "0.02",
+        "confidence": 0.729
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.443
+    },
+    {
+      "filename": "X51005806698.jpg",
+      "processed_at": "2026-04-26T02:34:06.064545",
+      "ocr_engine": "easyocr",
+      "raw_text": "ADVANCO COMEANY Company Reg; No. 725186-V NO 183, Jalan Wangsa Delima 12, Wangsa Link, Wangsa Maju, 53300 Kuala Lumpur 03-41318972 GST Reg: 001658445824 TAX INVQICE CB#: 395164 28/0222018 6.02.25 M# M1-0 Cashier - C1OOO Descripion Price Total UNICORN GLUE STICK USG-21G2S SR 2 27755 5.80 11.60 Item Discount 10% -1.16 2 Type: Total 1.60 Rounding Adj 001 Total Inclusive GST: 1045 CASH Z0.oo Change 9.55 GST Summary Code % Net Amt GST Total SR 6% 9.85 0.59 10.44 Total 9.85 0.59 10.44 NAS GREAT IDEA Thank you & Please come again. Goods sold are not returnable for refund or exchange I! Qty",
+      "store_name": {
+        "value": "Company Reg; No.",
+        "confidence": 0.625
+      },
+      "date": {
+        "value": "6.02.25",
+        "confidence": 0.92
+      },
+      "items": [],
+      "total_amount": {
+        "value": "1.60",
+        "confidence": 0.935
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.695
+    },
+    {
+      "filename": "X51005806702.jpg",
+      "processed_at": "2026-04-26T02:34:13.134524",
+      "ocr_engine": "easyocr",
+      "raw_text": "Cash Sale SINNATHAMBY HOLDINGS SDN. BHD. 249336-T NO.17, 18 & 41, JALAN BESAR, 39100 BRINCHANG, CAMERON HIGHLANDS, PAHANG GST 002120876032 Document No, T03-18/199913 Date 06/02,[2018 07.11:54 PM DESC PRICE Disc AMOUNT TAX QTY RM RM CODE ROYAL GOLD LUXURIOUS KITCHEN TOWEL 6R*60 1UNIT 13,50 0.00 13,50 SR Total Qty: Total Inclusive GST 6% 13,50 Rounding Adjustment: 0.00 Rounded Total (RM): 13.50 Cash 13,50 GST Summary Amount(RM) Tax(RM) SR 6% 12.74 0.76 NNN Thanks You NNn Reg;:",
+      "store_name": {
+        "value": "SINNATHAMBY HOLDINGS",
+        "confidence": 0.787
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [],
+      "total_amount": {
+        "value": "13.50",
+        "confidence": 0.98
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.697
+    },
+    {
+      "filename": "X51005806703.jpg",
+      "processed_at": "2026-04-26T02:34:22.614897",
+      "ocr_engine": "easyocr",
+      "raw_text": "Cash Sale SINNATHAMGY HOLDINGS SDN. #HD. (219336-T) NO.17, 18 & 41, JALAN BESAR, 39100 BRINCHANG,_ CAMERON HIGHLANDS, PAHANG GST 002120876032 Document No. T04-18/084227 Date 06/02/2018 07*09:16 PM DESC PRICE Disc AMOUNT TAX QTY RM RM IDE POLY CHOPPING BOARD 013 3 UNIT 4,80 @.00 14,40 SR PLASTI  BOWL 2.80 JNIT 2.80 0.00 22.40 SR PLASTIC ( ONTAINER W COVER MS-SQ-1 6 UNIT 1 %i 0.00 9.00 SR BENXON PP HYGIENIC CUP-AC)-700 22 0z-S0PCS 1 UNIT 10.00 O.00 10.00 SR STAEDTLER LUNA COLQUR {i NICIL 11 UNIT 4,90 0.00 53.90 SR Total Qty: 29 Total Inclusive GST &% 109.70 Rounding Adjustment = 0.00 Rounded Total (RM): 109.70 Cash 109.70 GST Summary Amount(RM) Tax(RM) SR @ 6 % 103,49 6.21 NNN Thanks You NIvN Reg_",
+      "store_name": {
+        "value": "NO.17, 18 & 41, JALAN BESAR,",
+        "confidence": 0.65
+      },
+      "date": {
+        "value": "06/02/2018",
+        "confidence": 0.83
+      },
+      "items": [
+        {
+          "name": "3 UNIT 4,80 @.00 SR",
+          "price": "14.40",
+          "confidence": 0.94
+        },
+        {
+          "name": "PLASTI  BOWL",
+          "price": "2.80",
+          "confidence": 0.659
+        },
+        {
+          "name": "SR @ 6 % 103,49",
+          "price": "6.21",
+          "confidence": 0.818
+        }
+      ],
+      "total_amount": {
+        "value": "109.70",
+        "confidence": 0.979
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_item_1"
+      ],
+      "overall_confidence": 0.828
+    },
+    {
+      "filename": "X51005806716.jpg",
+      "processed_at": "2026-04-26T02:34:31.766629",
+      "ocr_engine": "easyocr",
+      "raw_text": "ADVANCO COMPANY Company No: 725186-V NQ183, Jalan Wangsa Delima 12, Wangsa Link, Wangsa Maju; 53300 Kuala Lumpur 03-41318972 GST 001858445824 TAXINVQICE CB# 389720 17/0122018 4 2153 M# M2 - 0 Casler czCOD- Cescripton Tota} UNICORN-ZOCM HALF WHIiE RULEF SR A15961 6 30 0 80 CBE-S217 CBE 7\" SCISSOIRS {2.OMM SR A27269 20 6.2 2 Type 2 Total 7.00 Rounding Adj 0.0O Tolal Inclusiva GST: 7.00 CASH 50.00 Change 43.00 GST Summary Code % Net Amt GST Telat SR 6% 6.60 J.40 7.00 Total 6.&0 040 7.00 Thank you & Please come again: Goods sold are not retumable for reiund or 6 xchiange !! Reg; Reg \" Qty Fyice",
+      "store_name": {
+        "value": "ADVANCO COMPANY",
+        "confidence": 0.784
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [
+        {
+          "name": "SR 6% J.40 6.60",
+          "price": "7.00",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "7.00",
+        "confidence": 0.938
+      },
+      "currency": {
+        "value": "Unknown",
+        "confidence": 0.3
+      },
+      "flags": [
+        "low_confidence_date",
+        "low_confidence_currency"
+      ],
+      "overall_confidence": 0.578
+    },
+    {
+      "filename": "X51005806718.jpg",
+      "processed_at": "2026-04-26T02:34:38.337460",
+      "ocr_engine": "easyocr",
+      "raw_text": "HUGO TRADING SDN BHD Tota BR No 1160956-H D ARE LOT 889, KOMFLEKS PASAR BORONG SELANGOR; 43300 SERI KEMBANGAN, SEL 03-89442249, GST No. 001552822272 TAX INVOICE 13/01/2018 11.44.30PM TRN: C2050063 Counter 2 CASHIER 2 QTY UOM UNIT Amt Exc: Amt Inc GSTC Price Tax Taxode HD 32 X40 1kg 2 PKT 10.38 20.75 22.00 SR @6% + 1,25 GB3648-GARBAGE BAG 36x48 1X15 PKT 8 87 17.74 18.80 SR @6% 1.08 4 00 40.80 GST 69 40.80 Pavment S1,00 10.20 Amount (RM) Tax (RM) 38.49 231 sold are not returnable YOU for shopping at HUi SDN BHD GST GST\" 'Tolal Qty: Total Includes Customers _ Cash Change GST Summary SR = 6 % \"Goods Thank TRADING",
+      "store_name": {
+        "value": "HUGO TRADING SDN BHD",
+        "confidence": 0.774
+      },
+      "date": {
+        "value": "13/01/2018",
+        "confidence": 0.86
+      },
+      "items": [
+        {
+          "name": "SR 2 PKT 22.00 20.75",
+          "price": "10.38",
+          "confidence": 0.77
+        },
+        {
+          "name": "PKT SR 18.80 8 87",
+          "price": "17.74",
+          "confidence": 0.77
+        }
+      ],
+      "total_amount": {
+        "value": "40.80",
+        "confidence": 0.45
+      },
+      "currency": {
+        "value": "MYR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_total_amount"
+      ],
+      "overall_confidence": 0.757
+    },
+    {
+      "filename": "X51005806719.jpg",
+      "processed_at": "2026-04-26T02:34:46.543258",
+      "ocr_engine": "easyocr",
+      "raw_text": "XOSTED) SATU KAMPUNG ENTERPRISE SDN BHD 1127686-K) NO.42, PASAR BORONG SELANGOR' JALAN PUTRA PERMAI, 43300 SERI KEMBANGAN, SELANGOR TEL 03-8938 2188 SATUKAMPUNGESB@GMAIL COM GST ID 000816205824 TAX IVQICE Doc No CS00039037 Dale: 13101/201 Cashier USER Tinie' 23 37.00 Salesperson Ref _ (GST) (GST) Item S/Price Siprice Amount I KITO1 19.81 21.00 63,0U Sk KITCHENWARE Taial 63 00) Tolal Sales (Exciuding GST) 59.43 Discount 0 \u20acQ) Total GST 3.67 Rounding Q.00 Total Salos (Inclusive of GST) 63.00 CASH Change 7.00 POSTED IARY % AvplLW Tax (FWW) 6 59.43 3.57 SDN BHD Total 59.43 3.37 7956-H ASAR BORONG ARE NOT RETURNABLE, THIANK YCU, Qly:",
+      "store_name": {
+        "value": "SATU KAMPUNG ENTERPRISE SDN BHD",
+        "confidence": 0.684
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1
+      },
+      "items": [],
+      "total_amount": {
+        "value": "3.67",
+        "confidence": 0.766
+      },
+      "currency": {
+        "value": "EUR",
+        "confidence": 0.92
+      },
+      "flags": [
+        "low_confidence_store_name",
+        "low_confidence_date"
+      ],
+      "overall_confidence": 0.618
+    }
+  ],
+  "summary": {
+    "generated_at": "2026-04-26T02:34:55.041018",
+    "total_receipts_processed": 50,
+    "successful_extractions": 50,
+    "failed_extractions": 0,
+    "total_spend": 4037.52,
+    "number_of_transactions": 50,
+    "average_spend_per_receipt": 80.75,
+    "spend_per_store": {
+      "Level 4,": {
+        "transactions": 1,
+        "total_spend": 840.0
+      },
+      "Carry Sdn, Bhd/317041-W": {
+        "transactions": 1,
+        "total_spend": 673.99
+      },
+      "GREATZONE HOUSEHOLD CENTRE SDN BHD": {
+        "transactions": 1,
+        "total_spend": 367.3
+      },
+      "129, JALAN TUNH.SLEE,": {
+        "transactions": 1,
+        "total_spend": 353.0
+      },
+      "BENEED (SP) SDN_ BHD.": {
+        "transactions": 1,
+        "total_spend": 308.7
+      },
+      "(590150-4)": {
+        "transactions": 1,
+        "total_spend": 209.53
+      },
+      "001951645696": {
+        "transactions": 1,
+        "total_spend": 145.09
+      },
+      "PANA": {
+        "transactions": 2,
+        "total_spend": 134.06
+      },
+      "YONG CEN ENTERPRISE": {
+        "transactions": 2,
+        "total_spend": 121.98
+      },
+      "NO.17, 18 & 41, JALAN BESAR,": {
+        "transactions": 1,
+        "total_spend": 109.7
+      },
+      "TAmAN BEPKELEY": {
+        "transactions": 1,
+        "total_spend": 93.28
+      },
+      "31803003": {
+        "transactions": 1,
+        "total_spend": 88.97
+      },
+      "Mi, ),.'": {
+        "transactions": 1,
+        "total_spend": 71.9
+      },
+      "SUPER   SEVEN C4SH & CARRY SDN BHD": {
+        "transactions": 1,
+        "total_spend": 55.66
+      },
+      "MR .": {
+        "transactions": 1,
+        "total_spend": 45.0
+      },
+      "CHERAS , 55100 KUALA   Lumpur": {
+        "transactions": 1,
+        "total_spend": 42.48
+      },
+      "HUGO TRADING SDN BHD": {
+        "transactions": 1,
+        "total_spend": 40.8
+      },
+      "ADVANCO COMPANY": {
+        "transactions": 2,
+        "total_spend": 36.0
+      },
+      "NO _": {
+        "transactions": 1,
+        "total_spend": 35.5
+      },
+      "001389649920": {
+        "transactions": 1,
+        "total_spend": 35.4
+      },
+      "Co. Reg: No:: 795225-A": {
+        "transactions": 1,
+        "total_spend": 34.0
+      },
+      "AEON CO, (M) BHD (126928-H)": {
+        "transactions": 1,
+        "total_spend": 31.0
+      },
+      "MR _": {
+        "transactions": 4,
+        "total_spend": 21.12
+      },
+      "GOLDEN KEY MAKER": {
+        "transactions": 1,
+        "total_spend": 21.0
+      },
+      "CARRY SDN 'BHD": {
+        "transactions": 1,
+        "total_spend": 18.3
+      },
+      "HR _": {
+        "transactions": 1,
+        "total_spend": 14.9
+      },
+      "SINNATHAMBY HOLDINGS": {
+        "transactions": 1,
+        "total_spend": 13.5
+      },
+      "2180300": {
+        "transactions": 1,
+        "total_spend": 12.0
+      },
+      "21803016": {
+        "transactions": 1,
+        "total_spend": 9.95
+      },
+      "(CO.REG": {
+        "transactions": 1,
+        "total_spend": 9.4
+      },
+      "TRADING": {
+        "transactions": 1,
+        "total_spend": 8.0
+      },
+      "31803040": {
+        "transactions": 1,
+        "total_spend": 7.1
+      },
+      "Harvey Norman M'sia Paradigm Mal]": {
+        "transactions": 1,
+        "total_spend": 6.0
+      },
+      "POPULAR": {
+        "transactions": 2,
+        "total_spend": 5.98
+      },
+      "JUWITA WEDDINGS (366310-U)": {
+        "transactions": 1,
+        "total_spend": 4.1
+      },
+      "SATU KAMPUNG ENTERPRISE SDN BHD": {
+        "transactions": 1,
+        "total_spend": 3.67
+      },
+      "2180207": {
+        "transactions": 1,
+        "total_spend": 2.86
+      },
+      "('125830-V)": {
+        "transactions": 1,
+        "total_spend": 2.0
+      },
+      "Company Reg; No.": {
+        "transactions": 1,
+        "total_spend": 1.6
+      },
+      "3180205": {
+        "transactions": 1,
+        "total_spend": 1.48
+      },
+      "0,I.Y.": {
+        "transactions": 1,
+        "total_spend": 0.7
+      },
+      "TSH ROWER HARDWARE": {
+        "transactions": 1,
+        "total_spend": 0.5
+      },
+      "IMAGE PRINTEC (M) SDN BHD": {
+        "transactions": 1,
+        "total_spend": 0.02
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "X51005806695.jpg",
+  "processed_at": "2026-04-26T02:33:50.097672",
+  "ocr_engine": "easyocr",
+  "raw_text": "JUWITA WEDDINGS (366310-U) SAYANG YOU STATION SDN BHD Lot618 & 619 JLN 8/27A WANGSA MAJU (AEON BIG SHOPPING CENTER) 53300 KUALA LUMPUR Tel 0341434733 / Fax 0341434722 GST ID 000689004544 TAXINVQICE Invoice No: RCP180228-0101-77106 Receipt Date : 28-Feb-2018 1637.04 Cashier Juwita Weddings Item Descrlption Qty RM 1840310083 IPCS 2 4.10 SR MEASUREMENTTAPE 714WH Sub Total TOTAL 470 CASH 4.10 BALANCE O.Q0 INC. GST 6.00% 0 23 GST Summary Amount (RM) Tax (RM) SR 3.87 0.23 All Payments must be made only in the form of a credit card or cash payable to Juwta Weddings Sdn Bhd Exchange are allowed wilhin 3 with receipt  Strictly no cash refund Thank you; day\"",
+  "store_name": {
+    "value": "JUWITA WEDDINGS (366310-U)",
+    "confidence": 0.651
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [
+    {
+      "name": "Receipt Date : 28-Feb-2018",
+      "price": "1637.04",
+      "confidence": 0.747
+    },
+    {
+      "name": "0.23 SR",
+      "price": "3.87",
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": "4.10",
+    "confidence": 0.928
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.686
+}

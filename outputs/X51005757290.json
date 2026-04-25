@@ -1,0 +1,33 @@
+{
+  "filename": "X51005757290.jpg",
+  "processed_at": "2026-04-26T02:30:27.247569",
+  "ocr_engine": "easyocr",
+  "raw_text": "31803040 MR _ D . .Y. (m) SDN BHD (CO.REG :86067 1-D) LoT 1851-4 & 1851-B JALAN KPB 6 KAHASAN PERINDUSTRIAN BALAKONG 43300  SERI KEMBANGAN_ SELANGOR (GST Id No 000306020352 ) (IOI PUCHONG ) ~Tax INVOICE - STUDENT SOCKS 3PCS BK #S JH6 1 4/200 9034915 1 X 9,50 9,50 BELT 5202-3#*VS #S Q131 12/480 9034870 1 X 22 . 90 22 , 90 PVC HAN PPER 969 (BK ) #S 1A36 9555590500184 1 X 10,50 10 , 50 Item(s) 3 Qty(s) 3 Tota] Inc] . GSTe6% RH 42 .90 CASH RH 50 . 00 CHANGE RM 7.10 GST @6% included in tota/ RM 2 ,43 # ~tt 17-03-18 14;49 SHO 1 2j86 T1 ROOO 1 10133 OPERATOR TRAINEE CASHIER EXCHANGE ARE ALLOHED WITHIN DAY WITH RECEIPT _ STRICTLY nO Cash REFUND ,",
+  "store_name": {
+    "value": "31803040",
+    "confidence": 0.782
+  },
+  "date": {
+    "value": "17-03-18",
+    "confidence": 0.835
+  },
+  "items": [
+    {
+      "name": "9034915 1 X 9,50",
+      "price": "9.50",
+      "confidence": 0.95
+    }
+  ],
+  "total_amount": {
+    "value": "7.10",
+    "confidence": 0.45
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.787
+}

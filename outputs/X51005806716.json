@@ -1,0 +1,34 @@
+{
+  "filename": "X51005806716.jpg",
+  "processed_at": "2026-04-26T02:34:31.766629",
+  "ocr_engine": "easyocr",
+  "raw_text": "ADVANCO COMPANY Company No: 725186-V NQ183, Jalan Wangsa Delima 12, Wangsa Link, Wangsa Maju; 53300 Kuala Lumpur 03-41318972 GST 001858445824 TAXINVQICE CB# 389720 17/0122018 4 2153 M# M2 - 0 Casler czCOD- Cescripton Tota} UNICORN-ZOCM HALF WHIiE RULEF SR A15961 6 30 0 80 CBE-S217 CBE 7\" SCISSOIRS {2.OMM SR A27269 20 6.2 2 Type 2 Total 7.00 Rounding Adj 0.0O Tolal Inclusiva GST: 7.00 CASH 50.00 Change 43.00 GST Summary Code % Net Amt GST Telat SR 6% 6.60 J.40 7.00 Total 6.&0 040 7.00 Thank you & Please come again: Goods sold are not retumable for reiund or 6 xchiange !! Reg; Reg \" Qty Fyice",
+  "store_name": {
+    "value": "ADVANCO COMPANY",
+    "confidence": 0.784
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.1
+  },
+  "items": [
+    {
+      "name": "SR 6% J.40 6.60",
+      "price": "7.00",
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": "7.00",
+    "confidence": 0.938
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_date",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.578
+}

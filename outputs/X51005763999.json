@@ -1,0 +1,34 @@
+{
+  "filename": "X51005763999.jpg",
+  "processed_at": "2026-04-26T02:32:12.139703",
+  "ocr_engine": "easyocr",
+  "raw_text": "2 Segi Cash & Carry Sdn, Bhd/317041-W Pt17920 Sek UQ Shah Alaw GST No 4 001951645696 Invoice No 62513 Date 06 Jan 2018 O5:21pn Counter 02 MiGHTY MARK  DISKMASH MIL 2 % 9.90 19.80 $ CRQWN '5 POWER PWD DETERGENT  SKG 1 x 11.50 (Disc: 1.60) 9,90 $ udaNG XL 3,18 * 39,90 126,38 2 udang XL 3.15 * 39 , 90 125.69 2 WIN CENDOL (GROSS 1.SKG, NET 1KD) 2 % 4,51 9,02 $ IkAN BILIS C TIFBANG 1.36 % 55,00 74,80 2 AJINOHOTO 2oXikG 1 X 210.00 210.00 $5 SEGI/LEMBU Emas QIL 17K6+ - 1 X 69 . 90 69.90 2 ABC TEPUNG UBI IOxIKG 1 * 28 . @o 28.0 2 No of itens: 11 Subtotal Incl. GST #RM 673,99 Rounding:RH 0.01 Total Incl_ GST:RM 674 . DQ VISA XxXxxxrXxrXx7118: 674 . Q0 Change:RM 0 , Qo Savings:RH 1.60 Missed Point Today: 659 Served by KALAVATHI A/P 4Avog72*71 GST Summary %tttx GST Code Amount(RM) Tax(RH) S @6.07 234.63 14 . 09 2 @0.0K 425.27 0 , @0 Ref No: 00600666580062513 Goods Sold Are Not Returnable. Tp Reg",
+  "store_name": {
+    "value": "Carry Sdn, Bhd/317041-W",
+    "confidence": 0.613
+  },
+  "date": {
+    "value": "06 Jan 2018",
+    "confidence": 0.559
+  },
+  "items": [
+    {
+      "name": "Savings:RH",
+      "price": "1.60",
+      "confidence": 0.919
+    }
+  ],
+  "total_amount": {
+    "value": "673.99",
+    "confidence": 0.809
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_date"
+  ],
+  "overall_confidence": 0.764
+}

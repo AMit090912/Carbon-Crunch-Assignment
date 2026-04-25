@@ -1,0 +1,29 @@
+{
+  "filename": "X51005749904.jpg",
+  "processed_at": "2026-04-26T02:28:01.030791",
+  "ocr_engine": "easyocr",
+  "raw_text": "STC CNTEILPEISE SDN BHD ('125830-V) 28-G, Graund F!aor Jalan Dnar 4 03/4 Tmn Subarg Perdana, 40150 Shah Alam, Selzngor. Tf FWUIcE (CST IL No . (02017008384 ) 06/03/2018 Cashier: 123 Z0:05;5e No;0100122617 [tem/Deec Qty Price Am t TME2 .5\"@{cat NYLON JLS 23 D621-1 2.0\"' 2.0O Opp TAPE 1.5\" OPP TAPE 1 . 5' 2.00 2.00 Tctal @ty TOTAZ AlOUMT 4.0o CASII 4 .0o GST Gj Icclde:} L! Torzl 0.22 Thark Yju c!ezse 'Jme \"gain Giojde Ec!\" Only E:fhergable W1 thzr 3 Dsys bzlpcs",
+  "store_name": {
+    "value": "('125830-V)",
+    "confidence": 0.674
+  },
+  "date": {
+    "value": "06/03/2018",
+    "confidence": 0.974
+  },
+  "items": [],
+  "total_amount": {
+    "value": "2.00",
+    "confidence": 0.45
+  },
+  "currency": {
+    "value": "Unknown",
+    "confidence": 0.3
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_total_amount",
+    "low_confidence_currency"
+  ],
+  "overall_confidence": 0.6
+}

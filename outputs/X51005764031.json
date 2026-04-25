@@ -1,0 +1,28 @@
+{
+  "filename": "X51005764031.jpg",
+  "processed_at": "2026-04-26T02:32:22.666178",
+  "ocr_engine": "easyocr",
+  "raw_text": "SUPER SEVEN CSH & CARRY SON 3HD (590150-A) FASARAYA BIFGNG SUPER SEVEN NO _ 1 Jalan Euro 1 Off Jalan Batu Tiga Sunga j Buioh Seksyen U3 Shah Alam,40150 http:/ /ww. super7 ,COm.my TEL 03-78590861 Fax 03-78590864 GST  ID 000639090688 TAX INVOICE Custoiner [77853745] Mrs _ ONG GUAt CHYE TAX INVUICE NO 192636 COUNTER 002 UPERATOR : (SYED' AHMAD FALLAH B1-CUSTOMER SERVICE CLERK ] 01-62-2018 09;52:50 AM (RM) 7t LADy CHOICE 3c TARTAR SAUC @35.50) 9556024001383 *1 35.50 SR SAYUR RMI . O0 @1 .00 FM42OOOOOOO *2 2.00 ZR SAYUR RMI,00 @1.00 FM4ZOOOCuog *3 3,00 ZR KOBIS MERAH @1,60 42129 1 60 ZR CUANTTY 7 Units Tota/ Sales ( Inc] . GST @63) RHAZ . 10 Rounding Adjustment RMO . 00 Net  Tota] R142 . 10 Paylent Method 4x-V VISA CARD GST  Summary Sales Amt Tax Amt (RM= (RM) SR (6x` 33. 49 2.01~ ZR (0%) 6.60 0,00 PLEASE VERIFY YOUR RECEIPT BEFORE LEAvING THE COUNT ER, GooDs  SOLD ARE NOT   RETURNABLE . THANK   YOU",
+  "store_name": {
+    "value": "NO _",
+    "confidence": 0.617
+  },
+  "date": {
+    "value": "01-62-2018",
+    "confidence": 0.819
+  },
+  "items": [],
+  "total_amount": {
+    "value": "35.50",
+    "confidence": 0.45
+  },
+  "currency": {
+    "value": "MYR",
+    "confidence": 0.92
+  },
+  "flags": [
+    "low_confidence_store_name",
+    "low_confidence_total_amount"
+  ],
+  "overall_confidence": 0.702
+}
