@@ -1,5 +1,5 @@
 # Receipt OCR Extraction System
-Carbon Crunch Shortlisting Assignment
+
 
 ## What it does
 - Extracts store name, date, items, total, currency from receipt images
